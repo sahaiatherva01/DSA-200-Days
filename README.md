@@ -10,7 +10,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 
 | Day | Problem | Topic | Link |
 |-----|--------|------|------|
-| 1 | Alternating Groups I | Arrays | [View Code](./Day_1a/) |
+| 1 a | Alternating Groups I | Arrays | [View Code](./Day_1a/) |
+| 1 b | Special Array I | Arrays | [View Code](./Day_1b/) |
 
 
 ## Daily Goal
