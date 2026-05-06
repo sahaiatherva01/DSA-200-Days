@@ -13,6 +13,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 1| Alternating Groups I | Arrays | [View Code](./Day_1a/) |
 |  | Special Array I | Arrays | [View Code](./Day_1b/) |
 |  | Valid Word | Arrays | [View Code](./Day_1c/) |
+|  | Find the Integer added to Array I | Arrays | [View Code](./Day_1d/) |
 
 
 ## Daily Goal
