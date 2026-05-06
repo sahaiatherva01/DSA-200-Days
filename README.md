@@ -14,6 +14,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 |  | Special Array I | Arrays | [View Code](./Day_1b/) |
 |  | Valid Word | Arrays | [View Code](./Day_1c/) |
 |  | Find the Integer added to Array I | Arrays | [View Code](./Day_1d/) |
+|  | Longest Strictly Increasing or Strictly Decreasing Subarray| Arrays | [View Code](./Day_1e/) |
 
 
 ## Daily Goal
