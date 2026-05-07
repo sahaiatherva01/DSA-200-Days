@@ -15,6 +15,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 |  | Valid Word | Arrays | [View Code](./Day_1c/) |
 |  | Find the Integer added to Array I | Arrays | [View Code](./Day_1d/) |
 |  | Longest Strictly Increasing or Strictly Decreasing Subarray| Arrays | [View Code](./Day_1e/) |
+| 2| Ant on the Boundary | Arrays | [View Code](./Day_2a/) |
+|  | Two Sum | Arrays | [View Code](./Day_2b/) |
+|  | Maximum Odd Binary Number | Arrays | [View Code](./Day_2c/) |
+|  | Buy Two Chocolates | Arrays | [View Code](./Day_2d/) |
 
 
 ## Daily Goal
