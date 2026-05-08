@@ -24,8 +24,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 3  |  |  |  |
 | a) | Merge Two 2D Arrays by Summing values | Arrays | [View Code](./Day_3a/) |
 | b) | Find the Array Concatenation Valuewo Sum | Arrays | [View Code](./Day_3b/) |
-| c) | Maximum Odd Binary Number | Arrays | [View Code](./Day_2c/) |
-| d) | Buy Two Chocolates | Arrays | [View Code](./Day_2d/) |
+| c) | Apply Operations to an Array | Arrays | [View Code](./Day_3c/) |
+| d) | Squares of a Sorted Array | Arrays | [View Code](./Day_3d/) |
 
 
 ## Daily Goal
