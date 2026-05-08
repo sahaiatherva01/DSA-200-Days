@@ -10,7 +10,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 
 | Day | Problem | Topic | Link |
 |-----|--------|------|------|
-| 1 a)| Alternating Groups I | Arrays | [View Code](./Day_1a/) |
+| 1  |  |  |  |
+| a) | Alternating Groups I | Arrays | [View Code](./Day_1a/) |
 | b) | Special Array I | Arrays | [View Code](./Day_1b/) |
 | c) | Valid Word | Arrays | [View Code](./Day_1c/) |
 | d) | Find the Integer added to Array I | Arrays | [View Code](./Day_1d/) |
