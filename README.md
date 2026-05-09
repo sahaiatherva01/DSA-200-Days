@@ -23,6 +23,12 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Buy Two Chocolates | Arrays | [View Code](./Day_2d/) |
 | 3  |  |  |  |
 | a) | Merge Two 2D Arrays by Summing values | Arrays | [View Code](./Day_3a/) |
+| b) | Find the Array Concatenation Value of Sum | Arrays | [View Code](./Day_3b/) |
+| c) | Apply Operations to an Array | Arrays | [View Code](./Day_3c/) |
+| d) | Squares of a Sorted Array | Arrays | [View Code](./Day_3d/) |
+| e) | Find Common Characters | Arrays | [View Code](./Day_3e/) |
+| 4  |  |  |  |
+| a) | Relative Sort Array | Arrays | [View Code](./Day_4a/) |
 | b) | Find the Array Concatenation Valuewo Sum | Arrays | [View Code](./Day_3b/) |
 | c) | Apply Operations to an Array | Arrays | [View Code](./Day_3c/) |
 | d) | Squares of a Sorted Array | Arrays | [View Code](./Day_3d/) |
