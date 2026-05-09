@@ -30,9 +30,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 4  |  |  |  |
 | a) | Relative Sort Array | Arrays | [View Code](./Day_4a/) |
 | b) | Height Checker | Arrays | [View Code](./Day_4b/) |
-| c) | Apply Operations to an Array | Arrays | [View Code](./Day_3c/) |
-| d) | Squares of a Sorted Array | Arrays | [View Code](./Day_3d/) |
-| e) | Find Common Characters | Arrays | [View Code](./Day_3e/) |
+| c) | Count the Number of Consistent Strings | Arrays | [View Code](./Day_4c/) |
+| d) | Count of Matches in Tournament | Arrays | [View Code](./Day_4d/) |
 
 
 ## Daily Goal
