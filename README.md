@@ -32,6 +32,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Height Checker | Arrays | [View Code](./Day_4b/) |
 | c) | Count the Number of Consistent Strings | Arrays | [View Code](./Day_4c/) |
 | d) | Count of Matches in Tournament | Arrays | [View Code](./Day_4d/) |
+| 5  |  |  |  |
+| a) | Path Crossing | Arrays | [View Code](./Day_5a/) |
+| b) | Height Checker | Arrays | [View Code](./Day_4b/) |
+| c) | Count the Number of Consistent Strings | Arrays | [View Code](./Day_4c/) |
 
 
 ## Daily Goal
