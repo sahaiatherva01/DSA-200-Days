@@ -35,7 +35,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 5  |  |  |  |
 | a) | Path Crossing | Arrays | [View Code](./Day_5a/) |
 | b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_5b/) |
-| c) | Count the Number of Consistent Strings | Arrays | [View Code](./Day_4c/) |
+| c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_5c/) |
 
 
 ## Daily Goal
