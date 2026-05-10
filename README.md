@@ -34,7 +34,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Count of Matches in Tournament | Arrays | [View Code](./Day_4d/) |
 | 5  |  |  |  |
 | a) | Path Crossing | Arrays | [View Code](./Day_5a/) |
-| b) | Height Checker | Arrays | [View Code](./Day_4b/) |
+| b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_5b/) |
 | c) | Count the Number of Consistent Strings | Arrays | [View Code](./Day_4c/) |
 
 
