@@ -36,6 +36,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Path Crossing | Arrays | [View Code](./Day_5a/) |
 | b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_5b/) |
 | c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_5c/) |
+| 6  |  |  |  |
+| a) | Lucky Numbers in a Matrix | Arrays | [View Code](./Day_6a/) |
+| b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_5b/) |
+| c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_5c/) |
+
 
 
 ## Daily Goal
