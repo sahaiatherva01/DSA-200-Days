@@ -38,8 +38,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_5c/) |
 | 6  |  |  |  |
 | a) | Lucky Numbers in a Matrix | Arrays | [View Code](./Day_6a/) |
-| b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_5b/) |
-| c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_5c/) |
+| b) | Check if Array Is Sorted and Rotated | Arrays | [View Code](./Day_6b/) |
+| c) | Maximum Ascending Subarray Sum | Arrays | [View Code](./Day_6c/) |
 
 
 
