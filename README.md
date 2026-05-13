@@ -40,6 +40,15 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Lucky Numbers in a Matrix | Arrays | [View Code](./Day_6a/) |
 | b) | Check if Array Is Sorted and Rotated | Arrays | [View Code](./Day_6b/) |
 | c) | Maximum Ascending Subarray Sum | Arrays | [View Code](./Day_6c/) |
+| 7  |  |  |  |
+| a) | Find The First Player to win K Games in a Row | Arrays | [View Code](./Day_7a/) |
+| b) | Special Array II | Arrays | [View Code](./Day_7b/) |
+| c) | Alternating Groups II | Arrays | [View Code](./Day_7c/) |
+| 8  |  |  |  |
+| a) | Sum of Digit Differences of All Pairs| Arrays | [View Code](./Day_8a/) |
+| b) | Find the Integer Added to Array II | Arrays | [View Code](./Day_8b/) |
+| c) | Count the Number of Special Characters II | Arrays | [View Code](./Day_8c/) |
+| d) | Water Bottles II | Arrays | [View Code](./Day_8d/) |
 
 
 
