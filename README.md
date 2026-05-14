@@ -51,7 +51,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Water Bottles II | Arrays | [View Code](./Day_8d/) |
 | 9  |  |  |  |
 | a) | Majority Element | HashMap | [View Code](./Day_9a/) |
-| b) | Find the Integer Added to Array II | Arrays | [View Code](./Day_8b/) |
+| b) | Isomorphic Strings | HashMap | [View Code](./Day_9b/) |
 | c) | Count the Number of Special Characters II | Arrays | [View Code](./Day_8c/) |
 | d) | Water Bottles II | Arrays | [View Code](./Day_8d/) |
 
