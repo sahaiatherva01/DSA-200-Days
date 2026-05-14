@@ -53,7 +53,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Majority Element | HashMap | [View Code](./Day_9a/) |
 | b) | Isomorphic Strings | HashMap | [View Code](./Day_9b/) |
 | c) | Minimum Common Value | HashMap | [View Code](./Day_9c/) |
-| d) | Water Bottles II | Arrays | [View Code](./Day_8d/) |
+| d) | Missing Number | HashMap | [View Code](./Day_9d/) |
 
 
 
