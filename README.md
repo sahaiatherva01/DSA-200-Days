@@ -55,8 +55,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Minimum Common Value | HashMap | [View Code](./Day_9c/) |
 | d) | Missing Number | HashMap | [View Code](./Day_9d/) |
 | 10  |  |  |  |
-| a) | Identify the Largest Outlier in an Array | HashMap | [View Code](./Day_9a/) |
-| b) | Isomorphic Strings | HashMap | [View Code](./Day_9b/) |
+| a) | Identify the Largest Outlier in an Array | HashMap | [View Code](./Day_10a/) |
+| b) | Minimum Length of String After Operations | HashMap | [View Code](./Day_10b/) |
 | c) | Minimum Common Value | HashMap | [View Code](./Day_9c/) |
 
 
