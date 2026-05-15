@@ -57,7 +57,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 10  |  |  |  |
 | a) | Identify the Largest Outlier in an Array | HashMap | [View Code](./Day_10a/) |
 | b) | Minimum Length of String After Operations | HashMap | [View Code](./Day_10b/) |
-| c) | Minimum Common Value | HashMap | [View Code](./Day_9c/) |
+| c) | Find the Number of Distinct Colors Among the Balls | HashMap | [View Code](./Day_10c/) |
 
 
 
