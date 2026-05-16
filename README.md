@@ -58,6 +58,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Identify the Largest Outlier in an Array | HashMap | [View Code](./Day_10a/) |
 | b) | Minimum Length of String After Operations | HashMap | [View Code](./Day_10b/) |
 | c) | Find the Number of Distinct Colors Among the Balls | HashMap | [View Code](./Day_10c/) |
+| 11  |  |  |  |
+| a) | Count Alternating Subarrays | HashMap | [View Code](./Day_11a/) |
+| b) | Minimum Length of String After Operations | HashMap | [View Code](./Day_10b/) |
+| c) | Find the Number of Distinct Colors Among the Balls | HashMap | [View Code](./Day_10c/) |
+
 
 
 
