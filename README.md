@@ -61,7 +61,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 11  |  |  |  |
 | a) | Count Alternating Subarrays | HashMap | [View Code](./Day_11a/) |
 | b) | Maximum Good Subarray Sum | HashMap | [View Code](./Day_11b/) |
-| c) | Find the Number of Distinct Colors Among the Balls | HashMap | [View Code](./Day_10c/) |
+| c) | Find the Maximum Number of Elements in Subset | HashMap | [View Code](./Day_11c/) |
 
 
 
