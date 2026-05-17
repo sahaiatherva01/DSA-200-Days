@@ -62,6 +62,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Count Alternating Subarrays | HashMap | [View Code](./Day_11a/) |
 | b) | Maximum Good Subarray Sum | HashMap | [View Code](./Day_11b/) |
 | c) | Find the Maximum Number of Elements in Subset | HashMap | [View Code](./Day_11c/) |
+| 12  |  |  |  |
+| a) | Group Anagrams | HashMap | [View Code](./Day_12/) |
 
 
 
