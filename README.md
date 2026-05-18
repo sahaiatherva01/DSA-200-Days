@@ -64,6 +64,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Find the Maximum Number of Elements in Subset | HashMap | [View Code](./Day_11c/) |
 | 12  |  |  |  |
 | a) | Group Anagrams | HashMap | [View Code](./Day_12/) |
+| 13  |  |  |  |
+| a) | Equal Row and Column Pairs | HashMap | [View Code](./Day_13/) |
 
 
 
