@@ -66,6 +66,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Group Anagrams | HashMap | [View Code](./Day_12/) |
 | 13  |  |  |  |
 | a) | Equal Row and Column Pairs | HashMap | [View Code](./Day_13/) |
+| 14  |  |  |  |
+| a) | First Completely Painted Row or Column | HashMap | [View Code](./Day_14a/) |
+| b) | Convert an Array Into a 2D Array With Conditions | HashMap | [View Code](./Day_14b/) |
+| c) | Optimal Partition of String | HashMap | [View Code](./Day_14c/) |
 
 
 
