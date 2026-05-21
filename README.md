@@ -70,6 +70,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | First Completely Painted Row or Column | HashMap | [View Code](./Day_14a/) |
 | b) | Convert an Array Into a 2D Array With Conditions | HashMap | [View Code](./Day_14b/) |
 | c) | Optimal Partition of String | HashMap | [View Code](./Day_14c/) |
+| 15  |  |  |  |
+| a) | Count Number of Bad Pairs | HashMap | [View Code](./Day_15/) |
 
 
 
