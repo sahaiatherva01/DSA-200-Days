@@ -72,6 +72,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Optimal Partition of String | HashMap | [View Code](./Day_14c/) |
 | 15  |  |  |  |
 | a) | Count Number of Bad Pairs | HashMap | [View Code](./Day_15/) |
+| 16  |  |  |  |
+| a) | Max Sum of a Pair With Equal Sum of Digits | HashMap | [View Code](./Day_16/) |
 
 
 
