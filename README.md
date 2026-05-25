@@ -76,6 +76,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Max Sum of a Pair With Equal Sum of Digits | HashMap | [View Code](./Day_16/) |
 | 17  |  |  |  |
 | a) | Custom Sort String | HashMap | [View Code](./Day_17/) |
+| 18  |  |  |  |
+| a) | Continuous Subarray Sum | HashMap | [View Code](./Day_18/) |
 
 
 
