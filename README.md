@@ -78,6 +78,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Custom Sort String | HashMap | [View Code](./Day_17/) |
 | 18  |  |  |  |
 | a) | Continuous Subarray Sum | HashMap | [View Code](./Day_18/) |
+| 19  |  |  |  |
+| a) | Find All Duplicates in an Array | HashMap | [View Code](./Day_19/) |
+
 
 
 
