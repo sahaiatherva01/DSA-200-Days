@@ -14,24 +14,18 @@ Output: 0
 Explanation:
 No character in word appears in uppercase.
 */
-import java.util.*;
 class Solution {
     public int numberOfSpecialChars(String word) {
-        HashSet<Character> lower = new HashSet<>();
-        HashSet<Character> upper = new HashSet<>();
+        int lowerMask = 0;
+        int upperMask = 0;
         for (char ch : word.toCharArray()) {
             if (Character.isLowerCase(ch)) {
-                lower.add(ch);
+                lowerMask |= (1 << (ch - 'a'));
             } else {
-                upper.add(Character.toLowerCase(ch));
+                upperMask |= (1 << (ch - 'A'));
             }
         }
-        int count = 0;
-        for (char ch : lower) {
-            if (upper.contains(ch)) {
-                count++;
-            }
-        }
-        return count;
+        int common = lowerMask & upperMask;
+        return Integer.bitCount(common);
     }
 }
