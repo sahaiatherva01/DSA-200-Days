@@ -80,6 +80,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Continuous Subarray Sum | HashMap | [View Code](./Day_18/) |
 | 19  |  |  |  |
 | a) | Find All Duplicates in an Array | HashMap | [View Code](./Day_19/) |
+| 20  |  |  |  |
+| a) | Count the Number of Special Characters I | Strings | [View Code](./Day_20a/) |
+| b) | Largest 3-Same-Digit Number in String | Strings | [View Code](./Day_20b/) |
+| c) | Check If Two String Arrays are Equivalent | Strings | [View Code](./Day_20c/) |
 
 
 
