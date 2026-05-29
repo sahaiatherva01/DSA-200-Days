@@ -84,6 +84,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Count the Number of Special Characters I | Strings | [View Code](./Day_20a/) |
 | b) | Largest 3-Same-Digit Number in String | Strings | [View Code](./Day_20b/) |
 | c) | Check If Two String Arrays are Equivalent | Strings | [View Code](./Day_20c/) |
+| 21  |  |  |  |
+| a) | Maximum Score After Splitting a String | Strings | [View Code](./Day_21a/) |
+| b) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Strings | [View Code](./Day_21b/) |
+| c) | String Matching in an Array | Strings | [View Code](./Day_21c/) |
+| d) | Check if One String Swap Can Make Strings Equal | Strings | [View Code](./Day_21d/) |
 
 
 
