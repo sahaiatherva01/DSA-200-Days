@@ -89,7 +89,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Check If a Word Occurs As a Prefix of Any Word in a Sentence | Strings | [View Code](./Day_21b/) |
 | c) | String Matching in an Array | Strings | [View Code](./Day_21c/) |
 | d) | Check if One String Swap Can Make Strings Equal | Strings | [View Code](./Day_21d/) |
-
+| 22  |  |  |  |
+| a) | Minimum Number of Operations to Make Elements in Array Distinct | Strings | [View Code](./Day_22a/) |
+| b) | Sort Vowels in a String | Strings | [View Code](./Day_22b/) |
 
 
 
