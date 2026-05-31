@@ -94,7 +94,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Sort Vowels in a String | Strings | [View Code](./Day_22b/) |
 | 23  |  |  |  |
 | a) | Remove All Occurrences of a Substring | Strings | [View Code](./Day_23a/) |
-| b) | Sort Vowels in a String | Strings | [View Code](./Day_22b/) |
+| b) | Unique Length-3 Palindromic Subsequences | Strings | [View Code](./Day_23b/) |
+| c) | Unique Length-3 Palindromic Subsequences | Strings | [View Code](./Day_23c/) |
 
 
 
