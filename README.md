@@ -95,7 +95,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 23  |  |  |  |
 | a) | Remove All Occurrences of a Substring | Strings | [View Code](./Day_23a/) |
 | b) | Unique Length-3 Palindromic Subsequences | Strings | [View Code](./Day_23b/) |
-| c) | Unique Length-3 Palindromic Subsequences | Strings | [View Code](./Day_23c/) |
+| c) | Shifting Letters II | Strings | [View Code](./Day_23c/) |
 
 
 
