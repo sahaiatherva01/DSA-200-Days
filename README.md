@@ -99,9 +99,6 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 24  |  |  |  |
 | a) | Lexicographically Smallest String After Operations With Constraint | Strings | [View Code](./Day_24a/) |
 | b) | Apply Operations to Make String Empty | Strings | [View Code](./Day_24b/) |
-| c) | Shifting Letters II | Strings | [View Code](./Day_24c/) |
-| d) | Shifting Letters II | Strings | [View Code](./Day_24d/) |
-
 
 
 
