@@ -96,7 +96,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove All Occurrences of a Substring | Strings | [View Code](./Day_23a/) |
 | b) | Unique Length-3 Palindromic Subsequences | Strings | [View Code](./Day_23b/) |
 | c) | Shifting Letters II | Strings | [View Code](./Day_23c/) |
-
+| 24  |  |  |  |
+| a) | Lexicographically Smallest String After Operations With Constraint | Strings | [View Code](./Day_24a/) |
+| b) | Apply Operations to Make String Empty | Strings | [View Code](./Day_24b/) |
+| c) | Shifting Letters II | Strings | [View Code](./Day_24c/) |
+| d) | Shifting Letters II | Strings | [View Code](./Day_24d/) |
 
 
 
