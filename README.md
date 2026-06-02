@@ -99,6 +99,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 24  |  |  |  |
 | a) | Lexicographically Smallest String After Operations With Constraint | Strings | [View Code](./Day_24a/) |
 | b) | Apply Operations to Make String Empty | Strings | [View Code](./Day_24b/) |
+| 25  |  |  |  |
+| a) | Adding Spaces to a String | Strings | [View Code](./Day_25a/) |
+| b) | Number of Ways to Split Array | Strings | [View Code](./Day_25b/) |
 
 
 
