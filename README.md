@@ -104,8 +104,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Number of Ways to Split Array | Strings | [View Code](./Day_25b/) |
 | 26  |  |  |  |
 | a) | Count Vowel Strings in Ranges | Strings | [View Code](./Day_26a/) |
-| b) | UMake String a Subsequence Using Cyclic Increments | Strings | [View Code](./Day_26b/) |
+| b) | Make String a Subsequence Using Cyclic Increments | Strings | [View Code](./Day_26b/) |
 | c) | Rearrange K Substrings to Form Target String | Strings | [View Code](./Day_26c/) |
+| 27  |  |  |  |
+| a) | Maximum Palindromes After Operations | Strings | [View Code](./Day_27a/) |
+| b) | Move Pieces to Obtain a String | Strings | [View Code](./Day_27b/) |
 
 
 
