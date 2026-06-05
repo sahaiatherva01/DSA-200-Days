@@ -112,7 +112,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 28  |  |  |  |
 | a) | Clear Digits | Stack | [View Code](./Day_28a/) |
 | b) | Implement Queue using Stacks | Queue | [View Code](./Day_28b/) |
-| c) | Rearrange K Substrings to Form Target String | Stack | [View Code](./Day_28c/) |
+| c) | Time Needed to Buy Tickets | Queue | [View Code](./Day_28c/) |
 
 
 
