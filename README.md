@@ -109,6 +109,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 27  |  |  |  |
 | a) | Maximum Palindromes After Operations | Strings | [View Code](./Day_27a/) |
 | b) | Move Pieces to Obtain a String | Strings | [View Code](./Day_27b/) |
+| 28  |  |  |  |
+| a) | Clear Digits | Stack | [View Code](./Day_28a/) |
+| b) | Make String a Subsequence Using Cyclic Increments | Stack | [View Code](./Day_28b/) |
+| c) | Rearrange K Substrings to Form Target String | Stack | [View Code](./Day_28c/) |
 
 
 
