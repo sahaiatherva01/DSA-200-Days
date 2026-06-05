@@ -111,7 +111,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Move Pieces to Obtain a String | Strings | [View Code](./Day_27b/) |
 | 28  |  |  |  |
 | a) | Clear Digits | Stack | [View Code](./Day_28a/) |
-| b) | Make String a Subsequence Using Cyclic Increments | Queue | [View Code](./Day_28b/) |
+| b) | Implement Queue using Stacks | Queue | [View Code](./Day_28b/) |
 | c) | Rearrange K Substrings to Form Target String | Stack | [View Code](./Day_28c/) |
 
 
