@@ -113,6 +113,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Clear Digits | Stack | [View Code](./Day_28a/) |
 | b) | Implement Queue using Stacks | Queue | [View Code](./Day_28b/) |
 | c) | Time Needed to Buy Tickets | Queue | [View Code](./Day_28c/) |
+| 29  |  |  |  |
+| a) | Number of Students Unable to Eat Lunch | Queue | [View Code](./Day_29a/) |
+| b) | Implement Queue using Stacks | Queue | [View Code](./Day_28b/) |
+| c) | Time Needed to Buy Tickets | Queue | [View Code](./Day_28c/) |
 
 
 
