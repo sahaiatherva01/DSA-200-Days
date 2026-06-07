@@ -118,7 +118,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Valid Parentheses | Stack | [View Code](./Day_29b/) |
 | 30  |  |  |  |
 | a) | Maximum Nesting Depth of the Parentheses | Stack | [View Code](./Day_30a/) |
-| b) | Valid Parentheses | Stack | [View Code](./Day_29b/) |
+| b) | Reveal Cards In Increasing Order | Queue | [View Code](./Day_30b/) |
 
 
 
