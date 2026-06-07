@@ -116,6 +116,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 29  |  |  |  |
 | a) | Number of Students Unable to Eat Lunch | Stack | [View Code](./Day_29a/) |
 | b) | Valid Parentheses | Stack | [View Code](./Day_29b/) |
+| 30  |  |  |  |
+| a) | Maximum Nesting Depth of the Parentheses | Stack | [View Code](./Day_30a/) |
+| b) | Valid Parentheses | Stack | [View Code](./Day_29b/) |
 
 
 
