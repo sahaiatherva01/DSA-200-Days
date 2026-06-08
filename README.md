@@ -121,7 +121,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Reveal Cards In Increasing Order | Queue | [View Code](./Day_30b/) |
 | 31  |  |  |  |
 | a) | Remove Duplicate Letters | Stack | [View Code](./Day_31a/) |
-| b) | Reveal Cards In Increasing Order | Queue | [View Code](./Day_30b/) |
+| b) | Remove K Digits | Queue | [View Code](./Day_31b/) |
 
 
 
