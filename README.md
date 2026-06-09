@@ -123,6 +123,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove Duplicate Letters | Stack | [View Code](./Day_31a/) |
 | b) | Remove K Digits | Stack | [View Code](./Day_31b/) |
 | c) | Valid Parentheses String | Stack | [View Code](./Day_31c/) |
+| 32  |  |  |  |
+| a) | Reveal Cards In Increasing Order | Queue | [View Code](./Day_32a/) |
+| b) | Remove K Digits | Stack | [View Code](./Day_31b/) |
 
 
 
