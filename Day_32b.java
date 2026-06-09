@@ -27,3 +27,12 @@ Input: n = 6, k = 5
 Output: 1
 Explanation: The friends leave in this order: 5, 4, 6, 2, 3. The winner is friend 1.
 */
+class Solution {
+    public int findTheWinner(int n, int k) {
+        int winner = 0;
+        for (int i = 2; i <= n; i++) {
+            winner = (winner + k) % i;
+        }
+        return winner + 1;
+    }
+}
