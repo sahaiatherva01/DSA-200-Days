@@ -29,6 +29,7 @@ Input: deck = [1,1000]
 Output: [1,1000]
 */
 import java.util.*;
+class Solution {
     public int[] deckRevealedIncreasing(int[] deck) {
         Arrays.sort(deck);
         int n = deck.length;
