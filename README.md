@@ -128,7 +128,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) |Find the Winner of the Circular Game | Stack | [View Code](./Day_32) |
 | 33  |  |  |  |
 | a) | Maximal Rectangle | Stack | [View Code](./Day_33a) |
-
+| b) | Build an Array With Stack Operations | Stack | [View Code](./Day_33b) |
 
 
 
