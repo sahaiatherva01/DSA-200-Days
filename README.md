@@ -126,6 +126,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 32  |  |  |  |
 | a) | Reveal Cards In Increasing Order | Queue | [View Code](./Day_32a) |
 | b) |Find the Winner of the Circular Game | Stack | [View Code](./Day_32) |
+| 33  |  |  |  |
+| a) | Maximal Rectangle | Stack | [View Code](./Day_33a) |
 
 
 
