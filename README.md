@@ -130,7 +130,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Maximal Rectangle | Stack | [View Code](./Day_33a) |
 | b) | Build an Array With Stack Operations | Stack | [View Code](Day_33b) |
 | 34  |  |  |  |
-| a) | Intersection of Two Arrays | Binary Search| [View Code](Day_34a) |
+| a) | Intersection of Two Arrays | Binary Search| [View Code](Day_34a.java) |
 | b) | Build an Array With Stack Operations | Stack | [View Code](Day_33b) |
 
 
