@@ -128,8 +128,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) |Find the Winner of the Circular Game | Stack | [View Code](./Day_32) |
 | 33  |  |  |  |
 | a) | Maximal Rectangle | Stack | [View Code](./Day_33a) |
-| b) | Build an Array With Stack Operations | Stack | [View Code](./Day_33b) |
-
+| b) | Build an Array With Stack Operations | Stack | [View Code](Day_33b) |
+| 34  |  |  |  |
+| a) | Intersection of Two Arrays | Binary Search| [View Code](Day_34a) |
+| b) | Build an Array With Stack Operations | Stack | [View Code](Day_33b) |
 
 
 ## Daily Goal
