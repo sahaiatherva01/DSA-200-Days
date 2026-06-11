@@ -133,7 +133,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Intersection of Two Arrays | Binary Search| [View Code](./Day_34a.java) |
 | b) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
 | c) | Element Appearing More Than 25% In Sorted Array | Binary Search | [View Code](./Day_34c.java) |
-| d) | Binary Search | Binary Search | [View Code](./Day_34d.java) |
+| d) | Special Array With X Elements Greater Than or Equal X | Binary Search | [View Code](./Day_34d.java) |
 
 
 ## Daily Goal
