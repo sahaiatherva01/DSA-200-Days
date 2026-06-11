@@ -132,6 +132,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 34  |  |  |  |
 | a) | Intersection of Two Arrays | Binary Search| [View Code](./Day_34a.java) |
 | b) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
+| c) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
+| d) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
 
 
 ## Daily Goal
