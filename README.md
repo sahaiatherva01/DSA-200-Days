@@ -136,7 +136,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Special Array With X Elements Greater Than or Equal X | Binary Search | [View Code](./Day_34d.java) |
 | 35  |  |  |  |
 | a) | Zero Array Transformation II | Binary Search| [View Code](./Day_35a.java) |
-| b) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
+| b) | Search a 2D Matrix | Binary Search | [View Code](./Day_35b.java) |
 
 
 ## Daily Goal
