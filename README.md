@@ -134,6 +134,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
 | c) | Element Appearing More Than 25% In Sorted Array | Binary Search | [View Code](./Day_34c.java) |
 | d) | Special Array With X Elements Greater Than or Equal X | Binary Search | [View Code](./Day_34d.java) |
+| 35  |  |  |  |
+| a) | Zero Array Transformation II | Binary Search| [View Code](./Day_35a.java) |
+| b) | Binary Search | Binary Search | [View Code](./Day_34b.java) |
 
 
 ## Daily Goal
