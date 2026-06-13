@@ -137,6 +137,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 35  |  |  |  |
 | a) | Zero Array Transformation II | Binary Search| [View Code](./Day_35a.java) |
 | b) | Search a 2D Matrix | Binary Search | [View Code](./Day_35b.java) |
+| 36  |  |  |  |
+| a) | Minimum Operations to Make All Array Elements Equal | Binary Search| [View Code](./Day_36a.java) |
+| b) | Search a 2D Matrix | Binary Search | [View Code](./Day_35b.java) |
+
 
 
 ## Daily Goal
