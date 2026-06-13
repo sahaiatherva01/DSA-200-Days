@@ -141,6 +141,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Operations to Make All Array Elements Equal | Binary Search| [View Code](./Day_36a.java) |
 | b) | Maximum Number of Integers to Choose From a Range I | Binary Search | [View Code](./Day_36b.java) |
 | c) | Minimum Time to Complete Trips | Binary Search | [View Code](./Day_36c.java) |
+| d) | Separate Squares I | Binary Search | [View Code](./Day_36d.java) |
 
 
 
