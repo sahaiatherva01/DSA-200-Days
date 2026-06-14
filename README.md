@@ -144,6 +144,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Separate Squares I | Binary Search | [View Code](./Day_36d.java) |
 | 37  |  |  |  |
 | a) | Defuse the Bomb | Sliding Window| [View Code](./Day_37a.java) |
+| b) | Minimum Recolors to Get K Consecutive Black Blocks | Sliding Window| [View Code](./Day_37b.java) |
 
 
 
