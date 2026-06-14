@@ -142,6 +142,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Maximum Number of Integers to Choose From a Range I | Binary Search | [View Code](./Day_36b.java) |
 | c) | Minimum Time to Complete Trips | Binary Search | [View Code](./Day_36c.java) |
 | d) | Separate Squares I | Binary Search | [View Code](./Day_36d.java) |
+| 37  |  |  |  |
+| a) | Defuse the Bomb | Sliding Window| [View Code](./Day_37a.java) |
 
 
 
