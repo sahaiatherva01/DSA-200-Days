@@ -145,6 +145,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 37  |  |  |  |
 | a) | Defuse the Bomb | Sliding Window| [View Code](./Day_37a.java) |
 | b) | Minimum Recolors to Get K Consecutive Black Blocks | Sliding Window| [View Code](./Day_37b.java) |
+| 38  |  |  |  |
+| a) | Check If Digits Are Equal in String After Operations I | Math and Number Theory | [View Code](./Day_38.java) |
 
 
 
