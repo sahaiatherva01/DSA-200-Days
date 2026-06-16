@@ -149,7 +149,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Check If Digits Are Equal in String After Operations I | Math and Number Theory | [View Code](./Day_38.java) |
 | 39  |  |  |  |
 | a) | Split With Minimum Sum | Math and Number Theory | [View Code](./Day_39a.java) |
-| b) | Minimum Recolors to Get K Consecutive Black Blocks | Math and Number Theory | [View Code](./Day_37b.java) |
+| b) | Can Make Arithmetic Progression From Sequence | Math and Number Theory | [View Code](./Day_39b.java) |
 
 
 
