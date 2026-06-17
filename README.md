@@ -150,6 +150,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 39  |  |  |  |
 | a) | Split With Minimum Sum | Math and Number Theory | [View Code](./Day_39a.java) |
 | b) | Can Make Arithmetic Progression From Sequence | Math and Number Theory | [View Code](./Day_39b.java) |
+| 40  |  |  |  |
+| a) | Right Triangles | Math and Number Theory | [View Code](./Day_40.java) |
 
 
 
