@@ -152,6 +152,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Can Make Arithmetic Progression From Sequence | Math and Number Theory | [View Code](./Day_39b.java) |
 | 40  |  |  |  |
 | a) | Right Triangles | Math and Number Theory | [View Code](./Day_40.java) |
+| 41  |  |  |  |
+| a) | Find the Number of Good Pairs II | Math and Number Theory | [View Code](./Day_41.java) |
 
 
 
