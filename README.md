@@ -156,7 +156,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Number of Good Pairs II | Math and Number Theory | [View Code](./Day_41.java) |
 | 42  |  |  |  |
 | a) | Merge Two Sorted Lists | Linked List | [View Code](./Day_42a.java) |
-| b) | Can Make Arithmetic Progression From Sequence | Linked List | [View Code](./Day_42b.java) |
+| b) | Reverse Linked List | Linked List | [View Code](./Day_42b.java) |
 
 
 
