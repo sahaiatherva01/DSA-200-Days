@@ -157,7 +157,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 42  |  |  |  |
 | a) | Merge Two Sorted Lists | Linked List | [View Code](./Day_42a.java) |
 | b) | Reverse Linked List | Linked List | [View Code](./Day_42b.java) |
-
+| 43  |  |  |  |
+| a) | Add Two Numbers | Linked List | [View Code](./Day_43.java) |
 
 
 ## Daily Goal
