@@ -161,7 +161,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Add Two Numbers | Linked List | [View Code](./Day_43.java) |
 | 44  |  |  |  |
 | a) | Power of Two | Bit Manipulation| [View Code](./Day_44a.java) |
-| b) | Binary Search | Bit Manipulation | [View Code](./Day_44b.java) |
+| b) | Number of 1 Bits | Bit Manipulation | [View Code](./Day_44b.java) |
 | c) | Element Appearing More Than 25% In Sorted Array | Bit Manipulation | [View Code](./Day_44c.java) |
 | d) | Special Array With X Elements Greater Than or Equal X | Bit Manipulation | [View Code](./Day_44d.java) |
 
