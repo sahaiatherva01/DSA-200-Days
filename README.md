@@ -163,7 +163,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Power of Two | Bit Manipulation| [View Code](./Day_44a.java) |
 | b) | Number of 1 Bits | Bit Manipulation | [View Code](./Day_44b.java) |
 | c) | Single Number II | Bit Manipulation | [View Code](./Day_44c.java) |
-| d) | Special Array With X Elements Greater Than or Equal X | Bit Manipulation | [View Code](./Day_44d.java) |
+| d) | Find the Duplicate Number | Bit Manipulation | [View Code](./Day_44d.java) |
 
 
 ## Daily Goal
