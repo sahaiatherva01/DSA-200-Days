@@ -164,6 +164,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Number of 1 Bits | Bit Manipulation | [View Code](./Day_44b.java) |
 | c) | Single Number II | Bit Manipulation | [View Code](./Day_44c.java) |
 | d) | Find the Duplicate Number | Bit Manipulation | [View Code](./Day_44d.java) |
+| e) | Sum of All Subset XOR Totals | Bit Manipulation | [View Code](./Day_44e.java) |
 
 
 ## Daily Goal
