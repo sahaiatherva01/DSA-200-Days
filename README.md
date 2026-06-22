@@ -168,7 +168,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 45  |  |  |  |
 | a) | Remove Duplicates from Sorted Array II | Arrays | [View Code](./Day_45a.java) |
 | b) | First Missing Positive | HashMap | [View Code](./Day_45b.java) |
-| c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_45c.java) |
+| c) | Minimum Time to Repair Cars | Binary Search | [View Code](./Day_45c.java) |
 
 
 ## Daily Goal
