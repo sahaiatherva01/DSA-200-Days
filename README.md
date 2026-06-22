@@ -167,7 +167,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | e) | Sum of All Subset XOR Totals | Bit Manipulation | [View Code](./Day_44e.java) |
 | 45  |  |  |  |
 | a) | Remove Duplicates from Sorted Array II | Arrays | [View Code](./Day_45a.java) |
-| b) | Special Positions in a Binary Matrix | Arrays | [View Code](./Day_45b.java) |
+| b) | First Missing Positive | HashMap | [View Code](./Day_45b.java) |
 | c) | Minimum Time Visiting All Points | Arrays | [View Code](./Day_45c.java) |
 
 
