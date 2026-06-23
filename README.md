@@ -169,6 +169,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove Duplicates from Sorted Array II | Arrays | [View Code](./Day_45a.java) |
 | b) | First Missing Positive | HashMap | [View Code](./Day_45b.java) |
 | c) | Minimum Time to Repair Cars | Binary Search | [View Code](./Day_45c.java) |
+| 46  |  |  |  |
+| a) | Maximum Number of Vowels in a Substring of Given Length | Sliding Window | [View Code](./Day_46.java) |
 
 
 ## Daily Goal
