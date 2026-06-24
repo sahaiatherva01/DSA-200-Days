@@ -173,8 +173,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Maximum Number of Vowels in a Substring of Given Length | Sliding Window | [View Code](./Day_46.java) |
 | 47  |  |  |  |
 | a) | Spiral Matrix II | Arrays | [View Code](./Day_47a.java) |
-| b) | First Missing Positive | HashMap | [View Code](./Day_47b.java) |
-| c) | Minimum Time to Repair Cars | Binary Search | [View Code](./Day_47c.java) |
+| b) | Product of the Last K Numbers | Arrays | [View Code](./Day_47b.java) |
+| c) | Minimum Time to Repair Cars | Arrays | [View Code](./Day_47c.java) |
 
 ## Daily Goal
 - Solve 4-5 problems  
