@@ -174,7 +174,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 47  |  |  |  |
 | a) | Spiral Matrix II | Arrays | [View Code](./Day_47a.java) |
 | b) | Product of the Last K Numbers | Arrays | [View Code](./Day_47b.java) |
-| c) | Minimum Time to Repair Cars | Arrays | [View Code](./Day_47c.java) |
+| c) | Maximum Absolute Sum of Any Subarray | Arrays | [View Code](./Day_47c.java) |
 
 ## Daily Goal
 - Solve 4-5 problems  
