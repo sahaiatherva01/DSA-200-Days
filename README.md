@@ -178,7 +178,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 48  |  |  |  |
 | a) | Spiral Matrix | Arrays | [View Code](./Day_48a.java) |
 | b) | Contiguous Array | Arrays | [View Code](./Day_48b.java) |
-| c) | Maximum Absolute Sum of Any Subarray | Arrays | [View Code](./Day_48c.java) |
+| c) | Diagonal Traverse II | Arrays | [View Code](./Day_48c.java) |
 
 ## Daily Goal
 - Solve 4-5 problems  
