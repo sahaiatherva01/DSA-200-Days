@@ -179,6 +179,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Spiral Matrix | Arrays | [View Code](./Day_48a.java) |
 | b) | Contiguous Array | Arrays | [View Code](./Day_48b.java) |
 | c) | Diagonal Traverse II | Arrays | [View Code](./Day_48c.java) |
+| d) | Sort Characters By Frequency | Arrays | [View Code](./Day_48d.java) |
+
+
 
 ## Daily Goal
 - Solve 4-5 problems  
