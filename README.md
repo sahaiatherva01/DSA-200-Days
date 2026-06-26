@@ -180,6 +180,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Contiguous Array | Arrays | [View Code](./Day_48b.java) |
 | c) | Diagonal Traverse II | Arrays | [View Code](./Day_48c.java) |
 | d) | Sort Characters By Frequency | Arrays | [View Code](./Day_48d.java) |
+| 49  |  |  |  |
+| a) | Length of Longest Subarray With at Most K Frequency | Two Pointers | [View Code](./Day_49.java) |
+
 
 
 
