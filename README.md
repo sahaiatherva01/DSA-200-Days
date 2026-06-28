@@ -182,6 +182,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Sort Characters By Frequency | Arrays | [View Code](./Day_48d.java) |
 | 49  |  |  |  |
 | a) | Length of Longest Subarray With at Most K Frequency | Two Pointers | [View Code](./Day_49.java) |
+| 50  |  |  |  |
+| a) | Find the Power of K-Size Subarrays | Queues | [View Code](./Day_50.java) |
 
 
 
