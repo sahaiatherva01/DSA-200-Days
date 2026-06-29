@@ -187,7 +187,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 51  |  |  |  |
 | a) | Product of Array Except Self | Math and Number Theory | [View Code](./Day_51a.java) |
 | b) | Maximum Prime Difference | Math and Number Theory | [View Code](./Day_51b.java) |
-| c) | Single Number II | Math and Number Theory | [View Code](./Day_51c.java) |
+| c) | Minimum Time to Break Locks I | Math and Number Theory | [View Code](./Day_51c.java) |
 | d) | Find the Duplicate Number | Math and Number Theory | [View Code](./Day_51d.java) |
 | e) | Sum of All Subset XOR Totals | Math and Number Theory | [View Code](./Day_51e.java) |
 
