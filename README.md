@@ -189,7 +189,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Maximum Prime Difference | Math and Number Theory | [View Code](./Day_51b.java) |
 | c) | Minimum Time to Break Locks I | Math and Number Theory | [View Code](./Day_51c.java) |
 | d) | Find the Largest Area of Square Inside Two Rectangles | Math and Number Theory | [View Code](./Day_51d.java) |
-| e) | Sum of All Subset XOR Totals | Math and Number Theory | [View Code](./Day_51e.java) |
+| e) | Perfect Squares | Math and Number Theory | [View Code](./Day_51e.java) |
 
 
 
