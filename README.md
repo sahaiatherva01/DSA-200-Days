@@ -190,6 +190,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Minimum Time to Break Locks I | Math and Number Theory | [View Code](./Day_51c.java) |
 | d) | Find the Largest Area of Square Inside Two Rectangles | Math and Number Theory | [View Code](./Day_51d.java) |
 | e) | Perfect Squares | Math and Number Theory | [View Code](./Day_51e.java) |
+| f) | The kth Factor of n | Math and Number Theory | [View Code](./Day_51f.java) |
 
 
 
