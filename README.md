@@ -186,7 +186,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Power of K-Size Subarrays | Queues | [View Code](./Day_50.java) |
 | 51  |  |  |  |
 | a) | Product of Array Except Self | Math and Number Theory | [View Code](./Day_51a.java) |
-| b) | Number of 1 Bits | Math and Number Theory | [View Code](./Day_51b.java) |
+| b) | Maximum Prime Difference | Math and Number Theory | [View Code](./Day_51b.java) |
 | c) | Single Number II | Math and Number Theory | [View Code](./Day_51c.java) |
 | d) | Find the Duplicate Number | Math and Number Theory | [View Code](./Day_51d.java) |
 | e) | Sum of All Subset XOR Totals | Math and Number Theory | [View Code](./Day_51e.java) |
