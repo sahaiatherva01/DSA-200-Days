@@ -35,14 +35,14 @@ Time	Energy	x	Action	Updated x
 The locks cannot be broken in less than 5 minutes; thus, the answer is 5.
 */
 class Solution {
-    public int findMinimumTime(int[] strength, int k) {
-        int n = strength.length;
+    public int findMinimumTime(List<Integer> strength, int k) {
+        int n = strength.size();
         int[] memo = new int[1 << n];
         Arrays.fill(memo, -1);
         return dfs(0, strength, k, memo);
     }
-    private int dfs(int mask, int[] strength, int k, int[] memo) {
-        int n = strength.length;
+    private int dfs(int mask, List<Integer> strength, int k, int[] memo) {
+        int n = strength.size();
         if (mask == (1 << n) - 1) {
             return 0;
         }
@@ -54,7 +54,7 @@ class Solution {
         int ans = Integer.MAX_VALUE;
         for (int i = 0; i < n; i++) {
             if ((mask & (1 << i)) == 0) {
-                int time = (strength[i] + x - 1) / x;
+                int time = (strength.get(i) + x - 1) / x;
                 ans = Math.min(ans,
                         time + dfs(mask | (1 << i), strength, k, memo));
             }
