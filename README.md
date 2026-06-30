@@ -193,7 +193,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | f) | The kth Factor of n | Math and Number Theory | [View Code](./Day_51f.java) |
 | 52  |  |  |  |
 | a) | Frequency of the Most Frequent Element | Sliding Window | [View Code](./Day_52a.java) |
-| b) | Maximum Prime Difference | Sliding Window | [View Code](./Day_52b.java) |
+| b) | Sequential Digits | Sliding Window | [View Code](./Day_52b.java) |
 
 
 
