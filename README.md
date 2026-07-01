@@ -194,6 +194,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 52  |  |  |  |
 | a) | Frequency of the Most Frequent Element | Sliding Window | [View Code](./Day_52a.java) |
 | b) | Sequential Digits | Sliding Window | [View Code](./Day_52b.java) |
+| 53  |  |  |  |
+| a) | Simplify Path | Stack | [View Code](./Day_53.java) |
 
 
 
