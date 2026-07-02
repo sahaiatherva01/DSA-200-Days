@@ -198,7 +198,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Simplify Path | Stack | [View Code](./Day_53.java) |
 | 54  |  |  |  |
 | a) | Check if a Parentheses String Can Be Valid | Stack | [View Code](./Day_54a.java) |
-| b) | Sequential Digits | Sliding Window | [View Code](./Day_54b.java) |
+| b) | Shortest Subarray with Sum at Least K | Queues | [View Code](./Day_54b.java) |
 
 
 
