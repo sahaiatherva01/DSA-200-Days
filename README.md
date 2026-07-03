@@ -199,6 +199,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 54  |  |  |  |
 | a) | Check if a Parentheses String Can Be Valid | Stack | [View Code](./Day_54a.java) |
 | b) | Shortest Subarray with Sum at Least K | Queues | [View Code](./Day_54b.java) |
+| 55  |  |  |  |
+| a) | Find the Child Who Has the Ball After K Seconds | Math and Number Theory | [View Code](./Day_55.java) |
 
 
 
