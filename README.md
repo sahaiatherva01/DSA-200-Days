@@ -205,7 +205,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Word Search | Recursion | [View Code](./Day_56a.java) |
 | b) | Longest Palindrome | Greedy | [View Code](./Day_56b.java) |
 | c) | Construct K Palindrome Strings | HashMap | [View Code](./Day_56c.java) |
-| d) | Find the Largest Area of Square Inside Two Rectangles | Math and Number Theory | [View Code](./Day_56d.java) |
+| d) | Pass the Pillow | Math and Number Theory | [View Code](./Day_56d.java) |
 
 
 
