@@ -203,7 +203,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Child Who Has the Ball After K Seconds | Math and Number Theory | [View Code](./Day_55.java) |
 | 56  |  |  |  |
 | a) | Word Search | Recursion | [View Code](./Day_56a.java) |
-| b) | Maximum Prime Difference | Math and Number Theory | [View Code](./Day_56b.java) |
+| b) | Longest Palindrome | Greedy | [View Code](./Day_56b.java) |
 | c) | Minimum Time to Break Locks I | Math and Number Theory | [View Code](./Day_56c.java) |
 | d) | Find the Largest Area of Square Inside Two Rectangles | Math and Number Theory | [View Code](./Day_56d.java) |
 
