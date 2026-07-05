@@ -206,6 +206,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Longest Palindrome | Greedy | [View Code](./Day_56b.java) |
 | c) | Construct K Palindrome Strings | HashMap | [View Code](./Day_56c.java) |
 | d) | Pass the Pillow | Math and Number Theory | [View Code](./Day_56d.java) |
+| 57  |  |  |  |
+| a) | Minimum Array End | Bit Manipulation | [View Code](./Day_57.java) |
 
 
 
