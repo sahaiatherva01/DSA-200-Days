@@ -212,6 +212,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Lexicographically Minimum String After Removing Stars | Greedy | [View Code](./Day_58.java) |
 | 59  |  |  |  |
 | a) | Minimize XOR | Bit Manipulation| [View Code](./Day_59.java) |
+| 60  |  |  |  |
+| a) | Count Number of Nice Subarrays | Sliding Window | [View Code](./Day_60a.java) |
+| b) | Longest Palindrome | Greedy | [View Code](./Day_60b.java) |
 
 
 
