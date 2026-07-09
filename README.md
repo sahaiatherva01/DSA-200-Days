@@ -215,6 +215,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 60  |  |  |  |
 | a) | Count Number of Nice Subarrays | Sliding Window | [View Code](./Day_60a.java) |
 | b) | Get Equal Substrings Within Budget | Sliding Window | [View Code](./Day_60b.java) |
+| 61  |  |  |  |
+| a) | Smallest Range II | Array | [View Code](./Day_61.java) |
 
 
 
