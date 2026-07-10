@@ -217,6 +217,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Get Equal Substrings Within Budget | Sliding Window | [View Code](./Day_60b.java) |
 | 61  |  |  |  |
 | a) | Smallest Range II | Array | [View Code](./Day_61.java) |
+| 62  |  |  |  |
+| a) | Average Waiting Time | Array | [View Code](./Day_62.java) |
 
 
 
