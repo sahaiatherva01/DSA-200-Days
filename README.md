@@ -219,6 +219,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Smallest Range II | Array | [View Code](./Day_61.java) |
 | 62  |  |  |  |
 | a) | Average Waiting Time | Array | [View Code](./Day_62.java) |
+| 63  |  |  |  |
+| a) | Number of Substrings Containing All Three Characters | Two Pointers | [View Code](./Day_63.java) |
+
 
 
 
