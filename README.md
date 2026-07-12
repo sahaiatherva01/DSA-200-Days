@@ -221,7 +221,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Average Waiting Time | Array | [View Code](./Day_62.java) |
 | 63  |  |  |  |
 | a) | Number of Substrings Containing All Three Characters | Two Pointers | [View Code](./Day_63.java) |
-
+| 64  |  |  |  |
+| a) | Vowels Game in a String | Greedy | [View Code](./Day_64.java) |
 
 
 
