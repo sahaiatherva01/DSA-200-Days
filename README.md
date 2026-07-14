@@ -225,6 +225,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Vowels Game in a String | Greedy | [View Code](./Day_64.java) |
 | 65  |  |  |  |
 | a) | Distribute Money to Maximum Children | Greedy | [View Code](./Day_65.java) |
+| 66  |  |  |  |
+| a) | Minimum Levels to Gain More Points | Array | [View Code](./Day_66.java) |
+
 
 
 
