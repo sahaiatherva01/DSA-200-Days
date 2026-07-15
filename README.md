@@ -227,7 +227,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Distribute Money to Maximum Children | Greedy | [View Code](./Day_65.java) |
 | 66  |  |  |  |
 | a) | Minimum Levels to Gain More Points | Array | [View Code](./Day_66.java) |
-
+| 67  |  |  |  |
+| a) | Number of Dice Rolls with Target Sum | Recursion | [View Code](./Day_67.java) |
 
 
 
