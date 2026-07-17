@@ -231,6 +231,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Number of Dice Rolls with Target Sum | Recursion | [View Code](./Day_67.java) |
 | 68  |  |  |  |
 | a) | Subarray Sums Divisible by K | Array | [View Code](./Day_68.java) |
+| 69  |  |  |  |
+| a) | Fruits Into Baskets II | Array | [View Code](./Day_69.java) |
+
 
 
 
