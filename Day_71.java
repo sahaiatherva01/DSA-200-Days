@@ -31,27 +31,20 @@ Note that it does not matter if the fence encloses any area, the first and secon
 */
 class Solution {
     public int numberOfPairs(int[][] points) {
+        Arrays.sort(points, (a, b) -> {
+            if (a[0] == b[0]) return b[1] - a[1];
+            return a[0] - b[0];
+        });
         int n = points.length;
         int ans = 0;
         for (int i = 0; i < n; i++) {
-            int ax = points[i][0];
-            int ay = points[i][1];
-            for (int j = 0; j < n; j++) {
-                if (i == j) continue;
-                int bx = points[j][0];
-                int by = points[j][1];
-                if (ax > bx || ay < by) continue;
-                boolean valid = true;
-                for (int k = 0; k < n; k++) {
-                    if (k == i || k == j) continue;
-                    int x = points[k][0];
-                    int y = points[k][1];
-                    if (x >= ax && x <= bx && y <= ay && y >= by) {
-                        valid = false;
-                        break;
-                    }
+            int maxY = Integer.MIN_VALUE;
+            for (int j = i + 1; j < n; j++) {
+                if (points[j][1] <= points[i][1]
+                        && points[j][1] > maxY) {
+                    ans++;
+                    maxY = points[j][1];
                 }
-                if (valid) ans++;
             }
         }
         return ans;
