@@ -235,6 +235,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Fruits Into Baskets II | Array | [View Code](./Day_69.java) |
 | 70  |  |  |  |
 | a) | Compare Version Numbers | Strings | [View Code](./Day_70.java) |
+| 71  |  |  |  |
+| a) | Find the Number of Ways to Place People | Math and Number Theory | [View Code](./Day_71.java) |
 
 
 
