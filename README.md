@@ -239,7 +239,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Number of Ways to Place People | Math and Number Theory | [View Code](./Day_71.java) |
 | 72  |  |  |  |
 | a) | Minimum Operations to Make Median of Array Equal to K | Math and Number Theory | [View Code](./Day_72a.java) |
-| b) | Get Equal Substrings Within Budget | Sliding Window | [View Code](./Day_72b.java) |
+| b) | Count Substrings Starting and Ending with Given Character | Math and Number Theory | [View Code](./Day_72b.java) |
 
 
 
