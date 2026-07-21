@@ -240,6 +240,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 72  |  |  |  |
 | a) | Minimum Operations to Make Median of Array Equal to K | Math and Number Theory | [View Code](./Day_72a.java) |
 | b) | Count Substrings Starting and Ending with Given Character | Math and Number Theory | [View Code](./Day_72b.java) |
+| 73  |  |  |  |
+| a) | Minimum Array Sum | Dynamic Programming | [View Code](./Day_73a.java) |
+| b) | Count Substrings Starting and Ending with Given Character | Math and Number Theory | [View Code](./Day_73b.java) |
+
 
 
 
