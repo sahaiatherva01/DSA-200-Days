@@ -242,7 +242,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Count Substrings Starting and Ending with Given Character | Math and Number Theory | [View Code](./Day_72b.java) |
 | 73  |  |  |  |
 | a) | Minimum Array Sum | Dynamic Programming | [View Code](./Day_73a.java) |
-| b) | Count Substrings Starting and Ending with Given Character | Math and Number Theory | [View Code](./Day_73b.java) |
+| b) | Target Sum | Dynamic Programming | [View Code](./Day_73b.java) |
 
 
 
