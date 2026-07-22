@@ -243,7 +243,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 73  |  |  |  |
 | a) | Minimum Array Sum | Dynamic Programming | [View Code](./Day_73a.java) |
 | b) | Target Sum | Dynamic Programming | [View Code](./Day_73b.java) |
-
+| 74  |  |  |  |
+| a) | Evaluate Boolean Binary Tree | Recursion | [View Code](./Day_74.java) |
 
 
 
