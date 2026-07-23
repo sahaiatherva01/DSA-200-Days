@@ -245,7 +245,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Target Sum | Dynamic Programming | [View Code](./Day_73b.java) |
 | 74  |  |  |  |
 | a) | Evaluate Boolean Binary Tree | Recursion | [View Code](./Day_74.java) |
-
+| 75  |  |  |  |
+| a) | Daily Temperatures | Stack | [View Code](./Day_75a.java) |
+| b) | Target Sum | Dynamic Programming | [View Code](./Day_75b.java) |
 
 
 
