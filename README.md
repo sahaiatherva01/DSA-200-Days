@@ -248,6 +248,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 75  |  |  |  |
 | a) | Daily Temperatures | Stack | [View Code](./Day_75a.java) |
 | b) | Build an Array With Stack Operations | Stack | [View Code](./Day_75b.java) |
+| 76  |  |  |  |
+| a) | Median of Two Sorted Arrays | Binary Search | [View Code](./Day_76.java) |
 
 
 
