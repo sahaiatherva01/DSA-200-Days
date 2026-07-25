@@ -250,6 +250,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Build an Array With Stack Operations | Stack | [View Code](./Day_75b.java) |
 | 76  |  |  |  |
 | a) | Median of Two Sorted Arrays | Binary Search | [View Code](./Day_76.java) |
+| 77  |  |  |  |
+| a) | Minimum Sum of Values by Dividing Array | Dynamic Programming | [View Code](./Day_76.java) |
 
 
 
