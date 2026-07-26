@@ -251,8 +251,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 76  |  |  |  |
 | a) | Median of Two Sorted Arrays | Binary Search | [View Code](./Day_76.java) |
 | 77  |  |  |  |
-| a) | Minimum Sum of Values by Dividing Array | Dynamic Programming | [View Code](./Day_76.java) |
-
+| a) | Minimum Sum of Values by Dividing Array | Dynamic Programming | [View Code](./Day_77.java) |
+| 78  |  |  |  |
+| a) | Find the Pivot Integer | Two Pointers | [View Code](./Day_78.java) |
 
 
 
