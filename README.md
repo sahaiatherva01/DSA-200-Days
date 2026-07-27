@@ -254,6 +254,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Sum of Values by Dividing Array | Dynamic Programming | [View Code](./Day_77.java) |
 | 78  |  |  |  |
 | a) | Find the Pivot Integer | Two Pointers | [View Code](./Day_78.java) |
+| 79  |  |  |  |
+| a) | Type of Triangle II | Math and Number Theory | [View Code](./Day_79.java) |
 
 
 
