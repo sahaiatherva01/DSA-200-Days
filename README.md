@@ -256,6 +256,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Pivot Integer | Two Pointers | [View Code](./Day_78.java) |
 | 79  |  |  |  |
 | a) | Type of Triangle II | Math and Number Theory | [View Code](./Day_79.java) |
+| 80  |  |  |  |
+| a) | Count All Valid Pickup and Delivery Options | Math and Number Theory | [View Code](./Day_80.java) |
 
 
 
