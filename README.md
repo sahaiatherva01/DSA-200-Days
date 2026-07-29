@@ -258,6 +258,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Type of Triangle II | Math and Number Theory | [View Code](./Day_79.java) |
 | 80  |  |  |  |
 | a) | Count All Valid Pickup and Delivery Options | Math and Number Theory | [View Code](./Day_80.java) |
+| 81  |  |  |  |
+| a) | Maximum Sum of 3 Non-Overlapping Subarrays | Sliding Window | [View Code](./Day_81.java) |
+
 
 
 
