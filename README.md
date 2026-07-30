@@ -260,6 +260,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Count All Valid Pickup and Delivery Options | Math and Number Theory | [View Code](./Day_80.java) |
 | 81  |  |  |  |
 | a) | Maximum Sum of 3 Non-Overlapping Subarrays | Sliding Window | [View Code](./Day_81.java) |
+| 82  |  |  |  |
+| a) | Partition Array Into Two Arrays to Minimize Sum Difference | Dynamic Programming | [View Code](./Day_82.java) |
 
 
 
