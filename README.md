@@ -262,6 +262,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Maximum Sum of 3 Non-Overlapping Subarrays | Sliding Window | [View Code](./Day_81.java) |
 | 82  |  |  |  |
 | a) | Partition Array Into Two Arrays to Minimize Sum Difference | Dynamic Programming | [View Code](./Day_82.java) |
+| 83  |  |  |  |
+| a) | Check if Grid can be Cut into Sections | Array | [View Code](./Day_83.java) |
 
 
 
