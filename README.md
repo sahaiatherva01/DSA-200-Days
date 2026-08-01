@@ -264,6 +264,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Partition Array Into Two Arrays to Minimize Sum Difference | Dynamic Programming | [View Code](./Day_82.java) |
 | 83  |  |  |  |
 | a) | Check if Grid can be Cut into Sections | Array | [View Code](./Day_83.java) |
+| 84  |  |  |  |
+| a) | Minimize Maximum of Array | Binary Search | [View Code](./Day_84.java) |
+
 
 
 
