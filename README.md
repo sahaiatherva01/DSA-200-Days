@@ -266,6 +266,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Check if Grid can be Cut into Sections | Array | [View Code](./Day_83.java) |
 | 84  |  |  |  |
 | a) | Minimize Maximum of Array | Binary Search | [View Code](./Day_84.java) |
+| 85  |  |  |  |
+| a) | Word Break | Dynamic Programming | [View Code](./Day_85.java) |
 
 
 
