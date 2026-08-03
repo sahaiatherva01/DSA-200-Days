@@ -271,6 +271,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 86  |  |  |  |
 | a) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86a.java) |
 | b) | Perfect Squares | Math and Number Theory | [View Code](./Day_86b.java) |
+| c) | Bulb Switcher | Math and Number Theory | [View Code](./Day_86c.java) |
 
 
 
