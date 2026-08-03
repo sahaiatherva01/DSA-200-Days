@@ -268,6 +268,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimize Maximum of Array | Binary Search | [View Code](./Day_84.java) |
 | 85  |  |  |  |
 | a) | Word Break | Dynamic Programming | [View Code](./Day_85.java) |
+| 86  |  |  |  |
+| a) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86a.java) |
+| b) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86b.java) |
 
 
 
