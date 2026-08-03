@@ -270,7 +270,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Word Break | Dynamic Programming | [View Code](./Day_85.java) |
 | 86  |  |  |  |
 | a) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86a.java) |
-| b) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86b.java) |
+| b) | Perfect Squares | Math and Number Theory | [View Code](./Day_86b.java) |
 
 
 
