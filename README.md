@@ -272,7 +272,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Length of Anagram Concatenation | Math and Number Theory | [View Code](./Day_86a.java) |
 | b) | Perfect Squares | Math and Number Theory | [View Code](./Day_86b.java) |
 | c) | Bulb Switcher | Math and Number Theory | [View Code](./Day_86c.java) |
-
+| 87  |  |  |  |
+| a) | Sum of All Subset XOR Totals | Recursion | [View Code](./Day_87.java) |
 
 
 
