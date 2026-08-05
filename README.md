@@ -274,6 +274,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Bulb Switcher | Math and Number Theory | [View Code](./Day_86c.java) |
 | 87  |  |  |  |
 | a) | Sum of All Subset XOR Totals | Recursion | [View Code](./Day_87.java) |
+| 88  |  |  |  |
+| a) | Neighboring Bitwise XOR | Bit Manipulation | [View Code](./Day_88.java) |
 
 
 
