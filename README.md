@@ -276,6 +276,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Sum of All Subset XOR Totals | Recursion | [View Code](./Day_87.java) |
 | 88  |  |  |  |
 | a) | Neighboring Bitwise XOR | Bit Manipulation | [View Code](./Day_88.java) |
+| 89  |  |  |  |
+| a) | Find the Number of Copy Arrays | Math and Number Theory | [View Code](./Day_89.java) |
 
 
 
