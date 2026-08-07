@@ -36,19 +36,26 @@ Explanation: For each distance k the pairs are:
 */
 class Solution {
     public long[] countOfPairs(int n, int x, int y) {
-        long[] ans = new long[n];
-        for (int i = 1; i <= n; i++) {
-            for (int j = 1; j <= n; j++) {
-                if (i == j) {
-                    continue;
-                }
-                int d1 = Math.abs(i - j);
-                int d2 = Math.abs(i - x) + 1 + Math.abs(y - j);
-                int d3 = Math.abs(i - y) + 1 + Math.abs(x - j);
-                int dist = Math.min(d1, Math.min(d2, d3));
-                ans[dist - 1]++;
-            }
+        --x;
+        --y;
+        if (x > y) {
+            int temp = x;
+            x = y;
+            y = temp;
         }
-        return ans;
+        long[] diff = new long[n];
+        for (int i = 0; i < n; i++) {
+            diff[0] += 2;
+            diff[Math.min(Math.abs(i - x), Math.abs(i - y) + 1)]++;
+            diff[Math.min(Math.abs(i - y), Math.abs(i - x) + 1)]++;
+            diff[Math.min(Math.abs(i), Math.abs(i - y) + 1 + x)]--;
+            diff[Math.min(Math.abs(i - (n - 1)), Math.abs(i - x) + 1 + Math.abs(y - (n - 1)))]--;
+            diff[Math.max(x - i, 0) + Math.max(i - y, 0) + (y - x) / 2]--;
+            diff[Math.max(x - i, 0) + Math.max(i - y, 0) + (y - x + 1) / 2]--;
+        }
+        for (int i = 1; i < n; i++) {
+            diff[i] += diff[i - 1];
+        }
+        return diff;
     }
 }
