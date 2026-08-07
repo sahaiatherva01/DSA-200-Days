@@ -278,6 +278,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Neighboring Bitwise XOR | Bit Manipulation | [View Code](./Day_88.java) |
 | 89  |  |  |  |
 | a) | Find the Number of Copy Arrays | Math and Number Theory | [View Code](./Day_89.java) |
+| 90  |  |  |  |
+| a) | Count the Number of Houses at a Certain Distance II | Array | [View Code](./Day_90.java) |
 
 
 
