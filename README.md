@@ -282,7 +282,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Count the Number of Houses at a Certain Distance II | Array | [View Code](./Day_90.java) |
 | 91  |  |  |  |
 | a) | Minimum Operations to Reduce an Integer to 0 | Bit Manipulation | [View Code](./Day_91a.java) |
-| b) | Perfect Squares | Math and Number Theory | [View Code](./Day_91b.java) |
+| b) | Maximum Product Subarray | Array | [View Code](./Day_91b.java) |
 | c) | Bulb Switcher | Math and Number Theory | [View Code](./Day_91c.java) |
 
 
