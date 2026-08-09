@@ -284,7 +284,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Operations to Reduce an Integer to 0 | Bit Manipulation | [View Code](./Day_91a.java) |
 | b) | Maximum Product Subarray | Array | [View Code](./Day_91b.java) |
 | c) | Maximum Subarray | Array | [View Code](./Day_91c.java) |
-
+| 92  |  |  |  |
+| a) | Maximum Difference by Remapping a Digit | Array | [View Code](./Day_92a.java) |
+| b) | Maximum Product Subarray | Array | [View Code](./Day_92b.java) |
 
 
 
