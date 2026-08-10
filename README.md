@@ -287,6 +287,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 92  |  |  |  |
 | a) | Maximum Difference by Remapping a Digit | Array | [View Code](./Day_92a.java) |
 | b) | Number of Zero-Filled Subarrays | Two Pointers | [View Code](./Day_92b.java) |
+| 93  |  |  |  |
+| a) | Subarray Product Less Than K | Two Pointers | [View Code](./Day_93a.java) |
+| b) | Number of Zero-Filled Subarrays | Two Pointers | [View Code](./Day_93b.java) |
 
 
 
