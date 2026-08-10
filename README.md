@@ -289,7 +289,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Number of Zero-Filled Subarrays | Two Pointers | [View Code](./Day_92b.java) |
 | 93  |  |  |  |
 | a) | Subarray Product Less Than K | Two Pointers | [View Code](./Day_93a.java) |
-| b) | Number of Zero-Filled Subarrays | Two Pointers | [View Code](./Day_93b.java) |
+| b) | Minimum Length of String After Deleting Similar Ends | Two Pointers | [View Code](./Day_93b.java) |
 
 
 
