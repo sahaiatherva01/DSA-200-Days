@@ -292,7 +292,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Minimum Length of String After Deleting Similar Ends | Two Pointers | [View Code](./Day_93b.java) |
 | 94  |  |  |  |
 | a) | Minimum Window Substring | Sliding Window | [View Code](./Day_94a.java) |
-| b) | Minimum Length of String After Deleting Similar Ends | Two Pointers | [View Code](./Day_94b.java) |
+| b) | Number of Subarrays That Match a Pattern II | String | [View Code](./Day_94b.java) |
 | c) | Minimum Length of String After Deleting Similar Ends | Two Pointers | [View Code](./Day_94c.java) |
 
 
