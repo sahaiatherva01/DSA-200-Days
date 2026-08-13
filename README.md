@@ -301,6 +301,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove Nth Node From End of List | Linked List | [View Code](./Day_96a.java) |
 | b) | Maximum Number of Distinct Elements After Operations | Greedy | [View Code](./Day_96b.java) |
 | c) | Rearrange Array to Maximize Prefix Score | Greedy | [View Code](./Day_96c.java) |
+| 97  |  |  |  |
+| a) | Bitwise AND of Numbers Range | Bit Manipulation | [View Code](./Day_97a.java) |
+| b) | Maximum Number of Distinct Elements After Operations | Greedy | [View Code](./Day_97b.java) |
+
 
 
 
