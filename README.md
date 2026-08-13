@@ -303,7 +303,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Rearrange Array to Maximize Prefix Score | Greedy | [View Code](./Day_96c.java) |
 | 97  |  |  |  |
 | a) | Bitwise AND of Numbers Range | Bit Manipulation | [View Code](./Day_97a.java) |
-| b) | Maximum Number of Distinct Elements After Operations | Greedy | [View Code](./Day_97b.java) |
+| b) | Find Unique Binary String | Greedy | [View Code](./Day_97b.java) |
 
 
 
