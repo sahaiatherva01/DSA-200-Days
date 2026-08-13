@@ -299,8 +299,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Remove Nodes From Linked List | Linked List | [View Code](./Day_95b.java) |
 | 96  |  |  |  |
 | a) | Remove Nth Node From End of List | Linked List | [View Code](./Day_96a.java) |
-| b) | aximum Number of Distinct Elements After Operations | Greedy | [View Code](./Day_96b.java) |
-| c) | Final Prices with a Special Discount in a Shop | Stack | [View Code](./Day_96c.java) |
+| b) | Maximum Number of Distinct Elements After Operations | Greedy | [View Code](./Day_96b.java) |
+| c) | Rearrange Array to Maximize Prefix Score | Greedy | [View Code](./Day_96c.java) |
 
 
 
