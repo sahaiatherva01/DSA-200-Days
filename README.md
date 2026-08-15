@@ -304,7 +304,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 97  |  |  |  |
 | a) | Bitwise AND of Numbers Range | Bit Manipulation | [View Code](./Day_97a.java) |
 | b) | Find Unique Binary String | Greedy | [View Code](./Day_97b.java) |
-
+| 98  |  |  |  |
+| a) | Check If Digits Are Equal in String After Operations II | Math and Number Theory | [View Code](./Day_98.java) |
 
 
 
