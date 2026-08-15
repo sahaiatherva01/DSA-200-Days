@@ -32,15 +32,45 @@ Since '4' != '8', the output is false.
 */
 class Solution {
     public boolean hasSameDigits(String s) {
-        while (s.length() > 2) {
-            StringBuilder next = new StringBuilder();
-            for (int i = 0; i < s.length() - 1; i++) {
-                int a = s.charAt(i) - '0';
-                int b = s.charAt(i + 1) - '0';
-                next.append((a + b) % 10);
+        int n = s.length();
+        int N = n - 2;
+        int sum = 0;
+        for (int i = 0; i <= N; i++) {
+            int c2 = combMod2(N, i);
+            int c5 = combMod5(N, i);
+            int c10 = c5;
+            if (c10 % 2 != c2) {
+                c10 += 5;
             }
-            s = next.toString();
+            int a = s.charAt(i) - '0';
+            int b = s.charAt(i + 1) - '0';
+            sum = (sum + c10 * (a - b)) % 10;
         }
-        return s.charAt(0) == s.charAt(1);
+        return sum == 0;
     }
+    private int combMod2(int n, int r) {
+        return ((r & ~n) == 0) ? 1 : 0;
+    }
+    private int combMod5(int n, int r) {
+        int[][] C = {
+            {1, 0, 0, 0, 0},
+            {1, 1, 0, 0, 0},
+            {1, 2, 1, 0, 0},
+            {1, 3, 3, 1, 0},
+            {1, 4, 1, 4, 1}
+        };
+        int result = 1;
+        while (n > 0 || r > 0) {
+            int nd = n % 5;
+            int rd = r % 5;
+            if (rd > nd) {
+                return 0;
+            }
+            result = (result * C[nd][rd]) % 5;
+            n /= 5;
+            r /= 5;
+        }
+        return result;
+    }
+}
 }
