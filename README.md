@@ -306,6 +306,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Find Unique Binary String | Greedy | [View Code](./Day_97b.java) |
 | 98  |  |  |  |
 | a) | Check If Digits Are Equal in String After Operations II | Math and Number Theory | [View Code](./Day_98.java) |
+| 99  |  |  |  |
+| a) | Solving Questions With Brainpower | Dynamic Programming | [View Code](./Day_99.java) |
+
 
 
 
