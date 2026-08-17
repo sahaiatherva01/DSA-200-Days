@@ -308,7 +308,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Check If Digits Are Equal in String After Operations II | Math and Number Theory | [View Code](./Day_98.java) |
 | 99  |  |  |  |
 | a) | Solving Questions With Brainpower | Dynamic Programming | [View Code](./Day_99.java) |
-
+| 100  |  |  |  |
+| a) |Minimum Flips to Make a OR b Equal to c | Bit manipulation | [View Code](./Day_100a.java) |
+| b) | Find Unique Binary String | Greedy | [View Code](./Day_100b.java) |
 
 
 
