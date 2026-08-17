@@ -309,8 +309,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 99  |  |  |  |
 | a) | Solving Questions With Brainpower | Dynamic Programming | [View Code](./Day_99.java) |
 | 100  |  |  |  |
-| a) |Minimum Flips to Make a OR b Equal to c | Bit manipulation | [View Code](./Day_100a.java) |
-| b) | Find Unique Binary String | Greedy | [View Code](./Day_100b.java) |
+| a) | Minimum Flips to Make a OR b Equal to c | Bit manipulation | [View Code](./Day_100a.java) |
+| b) | Maximum Number That Sum of the Prices Is Less Than or Equal to K | Bit manipulation | [View Code](./Day_100b.java) |
 
 
 
