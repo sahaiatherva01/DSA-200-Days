@@ -311,9 +311,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 100  |  |  |  |
 | a) | Minimum Flips to Make a OR b Equal to c | Bit manipulation | [View Code](./Day_100a.java) |
 | b) | Maximum Number That Sum of the Prices Is Less Than or Equal to K | Bit manipulation | [View Code](./Day_100b.java) |
-| 100  |  |  |  |
+| 101  |  |  |  |
 | a) | Shortest Uncommon Substring in an Array | Array | [View Code](./Day_101.java) |
-
+| 102  |  |  |  |
+| a) | Shortest Subarray With OR at Least K II | Sliding Window | [View Code](./Day_102a.java) |
+| b) | Maximum Number That Sum of the Prices Is Less Than or Equal to K | Bit manipulation | [View Code](./Day_100b.java) |
 
 
 
