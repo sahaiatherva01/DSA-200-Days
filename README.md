@@ -318,7 +318,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Word Subsets | String | [View Code](./Day_102b.java) |
 | 103  |  |  |  |
 | a) | K-th Smallest Prime Fraction | Binary Search | [View Code](./Day_103.java) |
-
+| 104  |  |  |  |
+| a) | Kth Smallest Amount With Single Denomination Combination | Array, Binary Search | [View Code](./Day_104.java) |
 
 
 
