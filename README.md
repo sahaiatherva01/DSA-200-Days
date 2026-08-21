@@ -317,8 +317,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Shortest Subarray With OR at Least K II | Sliding Window | [View Code](./Day_102a.java) |
 | b) | Word Subsets | String | [View Code](./Day_102b.java) |
 | 103  |  |  |  |
-| a) | K-th Smallest Prime Fraction | Binary Search | [View Code](./Day_103a.java) |
-| b) | Kth Smallest Element in a Sorted Matrix | Binary Search | [View Code](./Day_103b.java) |
+| a) | K-th Smallest Prime Fraction | Binary Search | [View Code](./Day_103.java) |
+
 
 
 
