@@ -322,7 +322,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Kth Smallest Amount With Single Denomination Combination | Array, Binary Search | [View Code](./Day_104.java) |
 | 105  |  |  |  |
 | a) | Minimum Number of Moves to Seat Everyone | Greedy | [View Code](./Day_105a.java) |
-| b) | Word Subsets | String | [View Code](./Day_105b.java) |
+| b) | Find Center of Star Graph | Graph | [View Code](./Day_105b.java) |
 
 
 
