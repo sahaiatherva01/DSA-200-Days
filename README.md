@@ -320,6 +320,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | K-th Smallest Prime Fraction | Binary Search | [View Code](./Day_103.java) |
 | 104  |  |  |  |
 | a) | Kth Smallest Amount With Single Denomination Combination | Array, Binary Search | [View Code](./Day_104.java) |
+| 105  |  |  |  |
+| a) | Minimum Number of Moves to Seat Everyone | Greedy | [View Code](./Day_105a.java) |
+| b) | Word Subsets | String | [View Code](./Day_105b.java) |
 
 
 
