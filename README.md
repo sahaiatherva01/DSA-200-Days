@@ -325,7 +325,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Find Center of Star Graph | Graph | [View Code](./Day_105b.java) |
 | 106  |  |  |  |
 | a) | Find the N-th Value After K Seconds | Dynamic Programming | [View Code](./Day_106a.java) |
-| b) | Find Center of Star Graph | Graph | [View Code](./Day_105b.java) |
+| b) | Minimum Deletions to Make String K-Special | Dynamic Programming | [View Code](./Day_106b.java) |
 
 
 
