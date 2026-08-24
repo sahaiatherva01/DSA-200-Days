@@ -326,6 +326,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 106  |  |  |  |
 | a) | Find the N-th Value After K Seconds | Dynamic Programming | [View Code](./Day_106a.java) |
 | b) | Minimum Deletions to Make String K-Special | Dynamic Programming | [View Code](./Day_106b.java) |
+| 107  |  |  |  |
+| a) | Find the Punishment Number of an Integer | Recursion| [View Code](./Day_107.java) |
 
 
 
