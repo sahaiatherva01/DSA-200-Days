@@ -332,7 +332,6 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Concatenation of Array | Array | [View Code](./Day_108a.java) |
 | b) | Contains Duplicate | Array | [View Code](./Day_108b.java) |
 | c) | Valid Anagram | String | [View Code](./Day_108c.java) |
-| d) |  | Array | [View Code](./Day_108d.java) |
 
 
 
