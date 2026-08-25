@@ -330,7 +330,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Find the Punishment Number of an Integer | Recursion| [View Code](./Day_107.java) |
 | 108  |  |  |  |
 | a) | Concatenation of Array | Array | [View Code](./Day_108a.java) |
-| b) | Minimum Deletions to Make String K-Special | Dynamic Programming | [View Code](./Day_106b.java) |
+| b) | Contains Duplicate | Array | [View Code](./Day_108b.java) |
+| c) |  | Array | [View Code](./Day_108c.java) |
+| d) |  | Array | [View Code](./Day_108d.java) |
 
 
 
