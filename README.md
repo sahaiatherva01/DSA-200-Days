@@ -328,6 +328,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Minimum Deletions to Make String K-Special | Dynamic Programming | [View Code](./Day_106b.java) |
 | 107  |  |  |  |
 | a) | Find the Punishment Number of an Integer | Recursion| [View Code](./Day_107.java) |
+| 108  |  |  |  |
+| a) | Concatenation of Array | Array | [View Code](./Day_108a.java) |
+| b) | Minimum Deletions to Make String K-Special | Dynamic Programming | [View Code](./Day_106b.java) |
 
 
 
