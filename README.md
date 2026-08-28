@@ -336,6 +336,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove Element | Array, Two Pointer | [View Code](./Day_109.java) |
 | 110  |  |  |  |
 | a) | Lexicographically Smallest Permutation Greater Than target | Greedy | [View Code](./Day_110.java) |
+| 111  |  |  |  |
+| a) | ZigZag Conversion | String | [View Code](./Day_111.java) |
 
 
 
