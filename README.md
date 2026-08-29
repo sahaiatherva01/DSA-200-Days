@@ -338,13 +338,15 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Lexicographically Smallest Permutation Greater Than target | Greedy | [View Code](./Day_110.java) |
 | 111  |  |  |  |
 | a) | ZigZag Conversion | String | [View Code](./Day_111.java) |
+| 112  |  |  |  |
+| a) | Crawler Log Folder | Stack | [View Code](./Day_112.java) |
 
 
 
 
 
 ## Daily Goal
-- Solve 4-5 problems  
+- Solve 2-4 problems  
 - Understand patterns  
 - Stay consistent  
 
