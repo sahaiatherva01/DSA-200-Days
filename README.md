@@ -340,6 +340,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | ZigZag Conversion | String | [View Code](./Day_111.java) |
 | 112  |  |  |  |
 | a) | Crawler Log Folder | Stack | [View Code](./Day_112.java) |
+| 113  |  |  |  |
+| a) | Substring XOR Queries | Array | [View Code](./Day_113.java) |
 
 
 
