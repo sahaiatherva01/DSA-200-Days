@@ -344,8 +344,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Substring XOR Queries | Array | [View Code](./Day_113.java) |
 | 114  |  |  |  |
 | a) | Find the Sum of the Power of All Subsequences | Math and Number Theory | [View Code](./Day_114a.java) |
-| b) | Contains Duplicate | Array | [View Code](./Day_108b.java) |
-| c) | Valid Anagram | String | [View Code](./Day_108c.java) |
+| b) | Number of Subarrays With AND Value of K | Bit Manipulation | [View Code](./Day_114b.java) |
 
 
 
