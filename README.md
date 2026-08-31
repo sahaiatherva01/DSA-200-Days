@@ -342,6 +342,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Crawler Log Folder | Stack | [View Code](./Day_112.java) |
 | 113  |  |  |  |
 | a) | Substring XOR Queries | Array | [View Code](./Day_113.java) |
+| 114  |  |  |  |
+| a) | Find the Sum of the Power of All Subsequences | Math and Number Theory | [View Code](./Day_114a.java) |
+| b) | Contains Duplicate | Array | [View Code](./Day_108b.java) |
+| c) | Valid Anagram | String | [View Code](./Day_108c.java) |
 
 
 
