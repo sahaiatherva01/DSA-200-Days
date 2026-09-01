@@ -345,7 +345,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 114  |  |  |  |
 | a) | Find the Sum of the Power of All Subsequences | Math and Number Theory | [View Code](./Day_114a.java) |
 | b) | Number of Subarrays With AND Value of K | Bit Manipulation | [View Code](./Day_114b.java) |
-| 114  |  |  |  |
+| 115  |  |  |  |
 | a) | Maximum Running Time of N Computers | Binary Search | [View Code](./Day_115.java) |
 
 
