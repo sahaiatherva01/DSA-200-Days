@@ -347,6 +347,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Number of Subarrays With AND Value of K | Bit Manipulation | [View Code](./Day_114b.java) |
 | 115  |  |  |  |
 | a) | Maximum Running Time of N Computers | Binary Search | [View Code](./Day_115.java) |
+| 116  |  |  |  |
+| a) | Construct Uniform Parity Array I | Array | [View Code](./Day_116.java) |
 
 
 
