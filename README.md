@@ -349,7 +349,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Maximum Running Time of N Computers | Binary Search | [View Code](./Day_115.java) |
 | 116  |  |  |  |
 | a) | Construct Uniform Parity Array I | Array | [View Code](./Day_116.java) |
-
+| 117  |  |  |  |
+| a) | Construct Uniform Parity Array II | Array | [View Code](./Day_117.java) |
 
 
 
