@@ -353,6 +353,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Construct Uniform Parity Array II | Array | [View Code](./Day_117.java) |
 | 118  |  |  |  |
 | a) | Smallest Stable Index I | Array, Prefix Sum | [View Code](./Day_118.java) |
+| 119  |  |  |  |
+| a) | Smallest Stable Index II | Array, Prefix Sum | [View Code](./Day_118.java) |
+
 
 
 
