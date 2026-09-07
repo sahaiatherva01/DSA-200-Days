@@ -356,7 +356,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 119  |  |  |  |
 | a) | Smallest Stable Index II | Array, Prefix Sum | [View Code](./Day_119.java) |
 | 120  |  |  |  |
-| a) | Distinct Subsequences | String | [View Code](./Day_120.java) |
+| a) | Distinct Subsequences I | String | [View Code](./Day_120.java) |
+| 121  |  |  |  |
+| a) | Distinct Subsequences II | String | [View Code](./Day_121.java) |
+
 
 
 
