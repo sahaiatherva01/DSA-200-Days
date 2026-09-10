@@ -360,8 +360,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 121  |  |  |  |
 | a) | Distinct Subsequences II | String | [View Code](./Day_121.java) |
 | 122  |  |  |  |
-| a) | Count COmmas in range II | Math | [View Code](./Day_122.java) |
-
+| a) | Count Commas in range II | Math | [View Code](./Day_122.java) |
+| 123  |  |  |  |
+| a) | Count Nodes equal to average of SubTree | Binary Search, Tree | [View Code](./Day_123.java) |
 
 
 
