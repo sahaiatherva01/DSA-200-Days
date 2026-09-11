@@ -30,53 +30,52 @@ myCircularQueue.enQueue(4); // return True
 myCircularQueue.Rear();     // return 4
 */
 class MyCircularQueue {
-    int q[];
-    int front = 0, rear = 0, size = 0;
+    int[] arr;
+    int front;
+    int rear;
+    int size;
+    int capacity;
     public MyCircularQueue(int k) {
-        q = new int[k];
+        arr = new int[k];
+        capacity = k;
+        front = 0;
+        rear = -1;
+        size = 0;
     }
     public boolean enQueue(int value) {
-        if (size == q.length) 
-        {
+        if (size == capacity) {
             return false;
         }
-        q[rear] = value;
-        rear = (rear + 1) % q.length;
+        rear = (rear + 1) % capacity;
+        arr[rear] = value;
         size++;
         return true;
     }
     public boolean deQueue() {
-        if (size == 0) 
-        {
+        if (size == 0) {
             return false;
         }
-        front = (front + 1) % q.length;
+        front = (front + 1) % capacity;
         size--;
         return true;
     }
     public int Front() {
-        if (size == 0)
-        {
+        if (size == 0) {
             return -1;
         }
-        else{
-            return q[front];
-        }
+        return arr[front];
     }
     public int Rear() {
-        if (size == 0)
-        {
+        if (size == 0) {
             return -1;
         }
-        else{
-            return q[(rear - 1 + q.length) % q.length];
-        }
+        return arr[rear];
     }
     public boolean isEmpty() {
         return size == 0;
     }
     public boolean isFull() {
-        return size == q.length;
+        return size == capacity;
     }
 }
 
