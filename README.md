@@ -364,7 +364,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 123  |  |  |  |
 | a) | Count Nodes equal to average of SubTree | Binary Search, Tree | [View Code](./Day_123.java) |
 | 124  |  |  |  |
-| a) | Unique 3-Digit Even Numbers | Array, Recurssion | [View Code](./Day_124.java) |
+| a) | Unique 3-Digit Even Numbers | Array, Recurssion | [View Code](./Day_124a.java) |
+| b) | Design Circular Queue | Queue | [View Code](./Day_124b.java) |
 
 
 
