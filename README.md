@@ -366,7 +366,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 124  |  |  |  |
 | a) | Unique 3-Digit Even Numbers | Array, Recurssion | [View Code](./Day_124a.java) |
 | b) | Design Circular Queue | Queue | [View Code](./Day_124b.java) |
-
+| 125  |  |  |  |
+| a) | Maximum Score of Non-Overlapping Intervals | Binary Search, Dynammic Programming | [View Code](./Day_125.java) |
 
 
 
