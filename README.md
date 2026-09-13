@@ -368,6 +368,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Design Circular Queue | Queue | [View Code](./Day_124b.java) |
 | 125  |  |  |  |
 | a) | Maximum Score of Non-Overlapping Intervals | Binary Search, Dynammic Programming | [View Code](./Day_125.java) |
+| 126  |  |  |  |
+| a) | Image Overlap | Array, Matrix | [View Code](./Day_126.java) |
+
 
 
 
