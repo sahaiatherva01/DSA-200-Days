@@ -374,7 +374,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Rectangle Overlap | Math | [View Code](./Day_127.java) |
 | 128  |  |  |  |
 | a) | Number of Submatrices That Sum to Target | Array | [View Code](./Day_128a.java) |
-| b) | Design Circular Queue | Queue | [View Code](./Day_124b.java) |
+| b) | Maximum Number of Non-overlapping Palindrome Substring | two Pointer, String, Greedy | [View Code](./Day_128b.java) |
 
 
 
