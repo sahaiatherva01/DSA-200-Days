@@ -377,7 +377,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Maximum Number of Non-overlapping Palindrome Substring | Two Pointer, String, Greedy | [View Code](./Day_128b.java) |
 | 129  |  |  |  |
 | a) | N-Queen | Array, Backtracking | [View Code](./Day_129a.java) |
-| b) | Maximum Number of Non-overlapping Palindrome Substring | Two Pointer, String, Greedy | [View Code](./Day_128b.java) |
+| b) | Number of Sets of K - Non Overlapping Line Segment | Dynamic Programming | [View Code](./Day_129b.java) |
 
 
 
