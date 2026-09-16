@@ -374,7 +374,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Rectangle Overlap | Math | [View Code](./Day_127.java) |
 | 128  |  |  |  |
 | a) | Number of Submatrices That Sum to Target | Array | [View Code](./Day_128a.java) |
-| b) | Maximum Number of Non-overlapping Palindrome Substring | two Pointer, String, Greedy | [View Code](./Day_128b.java) |
+| b) | Maximum Number of Non-overlapping Palindrome Substring | Two Pointer, String, Greedy | [View Code](./Day_128b.java) |
+| 129  |  |  |  |
+| a) | N-Queen | Array, Backtracking | [View Code](./Day_129a.java) |
+| b) | Maximum Number of Non-overlapping Palindrome Substring | Two Pointer, String, Greedy | [View Code](./Day_128b.java) |
 
 
 
