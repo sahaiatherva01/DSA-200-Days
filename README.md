@@ -381,7 +381,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Unique Paths | Dynamic Programming | [View Code](./Day_129c.java) |
 | 130  |  |  |  |
 | a) | Combinations | Backtracking, Recursion | [View Code](./Day_130a.java) |
-| b) | Number of Sets of K - Non Overlapping Line Segment | Dynamic Programming | [View Code](./Day_129b.java) |
+| b) | Find two Non - Overlapping Sub - Arrays each with Target Sum  | Array, jash table, Sliding window, Binary Search, Dynamic Programming | [View Code](./Day_130b.java) |
 
 
 
