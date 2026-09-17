@@ -379,6 +379,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | N-Queen | Array, Backtracking | [View Code](./Day_129a.java) |
 | b) | Number of Sets of K - Non Overlapping Line Segment | Dynamic Programming | [View Code](./Day_129b.java) |
 | c) | Unique Paths | Dynamic Programming | [View Code](./Day_129c.java) |
+| 130  |  |  |  |
+| a) | Combinations | Backtracking, Recursion | [View Code](./Day_130a.java) |
+| b) | Number of Sets of K - Non Overlapping Line Segment | Dynamic Programming | [View Code](./Day_129b.java) |
+
+
 
 
 
