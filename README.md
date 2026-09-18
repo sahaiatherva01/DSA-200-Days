@@ -384,7 +384,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Find two Non - Overlapping Sub - Arrays each with Target Sum  | Array, Binary Search, Dynamic Programming | [View Code](./Day_130b.java) |
 | 131  |  |  |  |
 | a) | Subarrays with K Different Integers | Sliding Window | [View Code](./Day_131a.java) |
-| b) | Number of Sets of K - Non Overlapping Line Segment | Dynamic Programming | [View Code](./Day_129b.java) |
+| b) | Maximum number of  Non Overlapping Substrings | String| [View Code](./Day_131b.java) |
 
 
 
