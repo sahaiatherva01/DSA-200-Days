@@ -388,7 +388,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | c) | Non Overlapping Intervals | Array, Greedy, Sorting | [View Code](./Day_131c.java) |
 | 132  |  |  |  |
 | a) | Find the Number of Subarrays Where Boundary Elements Are Maximum | Stack, Binary Search | [View Code](./Day_132a.java) |
-| b) | Maximum number of  Non Overlapping Substrings | String | [View Code](./Day_131b.java) |
+| b) | Reverse Degree of a String | String | [View Code](./Day_132b.java) |
 
 
 
