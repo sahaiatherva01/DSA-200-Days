@@ -396,7 +396,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | g) | Minimum Path Sum | Array, Dynamic Programming, Matrix | [View Code](./Day_132g.java) |
 | h) | N - Queens II | Backtracking | [View Code](./Day_132h.java) |
 | i) | Elimination Game | Recursion | [View Code](./Day_132i.java) |
-| c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
+| j) | Maximum length of Pair Chain | Array, Greedy | [View Code](./Day_132j.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
