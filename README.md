@@ -389,6 +389,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 132  |  |  |  |
 | a) | Find the Number of Subarrays Where Boundary Elements Are Maximum | Stack, Binary Search | [View Code](./Day_132a.java) |
 | b) | Reverse Degree of a String | String | [View Code](./Day_132b.java) |
+| c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 
 
 
