@@ -386,7 +386,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Subarrays with K Different Integers | Sliding Window | [View Code](./Day_131a.java) |
 | b) | Maximum number of  Non Overlapping Substrings | String | [View Code](./Day_131b.java) |
 | c) | Non Overlapping Intervals | Array, Greedy, Sorting | [View Code](./Day_131c.java) |
-
+| 132  |  |  |  |
+| a) | Find the Number of Subarrays Where Boundary Elements Are Maximum | Stack, Binary Search | [View Code](./Day_132a.java) |
+| b) | Maximum number of  Non Overlapping Substrings | String | [View Code](./Day_131b.java) |
 
 
 
