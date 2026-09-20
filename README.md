@@ -393,7 +393,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Palindromic Substring | String, Two Pointer | [View Code](./Day_132d.java) |
 | e) | Shortest Palindrome | String, Two Pointer | [View Code](./Day_132e.java) |
 | f) | Unique Paths II | Array, Dynamic Programming, Matrix | [View Code](./Day_132f.java) |
-| c) | few | String, Two Pointer | [View Code](./Day_13cb.java) |
+| g) | Minimum Path Sum | Array, Dynamic Programming, Matrix | [View Code](./Day_132g.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
