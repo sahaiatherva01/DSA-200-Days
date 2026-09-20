@@ -403,7 +403,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | n) | Reverse Linked List II | Linked List | [View Code](./Day_132n.java) |
 | o) | Reverse Nodes in k Group | Linked List | [View Code](./Day_132o.java) |
 | p) | Linked List Cycle II | Linked List | [View Code](./Day_132p.java) |
-
+| q) | Generate Paranthesis | Stack, Backtracking | [View Code](./Day_132q.java) |
 
 
 
