@@ -397,7 +397,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | h) | N - Queens II | Backtracking | [View Code](./Day_132h.java) |
 | i) | Elimination Game | Recursion | [View Code](./Day_132i.java) |
 | j) | Maximum length of Pair Chain | Array, Greedy | [View Code](./Day_132j.java) |
-| c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
+| k) |maximum number of Arrows to Burst Baloons | Array, Greedy | [View Code](./Day_132k.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
