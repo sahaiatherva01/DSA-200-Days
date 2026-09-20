@@ -401,6 +401,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | l) | Last Stone Weight | Array | [View Code](./Day_132l.java) |
 | m) | Top k Frequent Elements | Array, Hash Table | [View Code](./Day_132m.java) |
 | n) | Reverse Linked List II | Linked List | [View Code](./Day_132n.java) |
+| o) | Reverse Nodes in k Group | Linked List | [View Code](./Day_132o.java) |
+
 
 
 
