@@ -391,9 +391,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Reverse Degree of a String | String | [View Code](./Day_132b.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_132c.java) |
 | d) | Palindromic Substring | String, Two Pointer | [View Code](./Day_132d.java) |
-| e) | xyz | String, Two Pointer | [View Code](./Day_13cb.java) |
-| c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
-| c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
+| e) | Shortest Palindrome | String, Two Pointer | [View Code](./Day_132e.java) |
+| c) | x | String, Two Pointer | [View Code](./Day_13cb.java) |
+| c) | few | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
 | c) | Longest Palindromic Substring | String, Two Pointer | [View Code](./Day_13cb.java) |
