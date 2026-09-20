@@ -400,7 +400,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | k) | Minimum number of Arrows to Burst Baloons | Array, Greedy | [View Code](./Day_132k.java) |
 | l) | Last Stone Weight | Array | [View Code](./Day_132l.java) |
 | m) | Top k Frequent Elements | Array, Hash Table | [View Code](./Day_132m.java) |
-| n) | h | String, Two Pointer | [View Code](./Day_13cb.java) |
+| n) | Reverse Linked List II | Linked List | [View Code](./Day_132n.java) |
 
 
 
