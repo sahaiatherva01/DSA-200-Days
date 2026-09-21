@@ -404,6 +404,11 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | o) | Reverse Nodes in k Group | Linked List | [View Code](./Day_132o.java) |
 | p) | Linked List Cycle II | Linked List | [View Code](./Day_132p.java) |
 | q) | Generate Paranthesis | Stack, Backtracking | [View Code](./Day_132q.java) |
+| 133  |  |  |  |
+| a) | Longest Continuous Subarray With Absolute Diff ≤ Limit | Array, Queue, Sliding Window | [View Code](./Day_133a.java) |
+| b) | Reverse Degree of a String | String | [View Code](./Day_132b.java) |
+
+
 
 
 
