@@ -406,7 +406,7 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | q) | Generate Paranthesis | Stack, Backtracking | [View Code](./Day_132q.java) |
 | 133  |  |  |  |
 | a) | Longest Continuous Subarray With Absolute Diff ≤ Limit | Array, Queue, Sliding Window | [View Code](./Day_133a.java) |
-| b) | Reverse Degree of a String | String | [View Code](./Day_132b.java) |
+| b) | Valid Palindrome | String, Two Pointer | [View Code](./Day_133b.java) |
 
 
 
