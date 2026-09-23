@@ -409,7 +409,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | b) | Valid Palindrome | String, Two Pointer | [View Code](./Day_133b.java) |
 | c) | Longest Substring Without Repeating Characters | String, Sliding Window | [View Code](./Day_133c.java) |
 | d) | Minimum Window Substring | String, Sliding Window | [View Code](./Day_133d.java) |
-
+| 134  |  |  |  |
+| a) | Minimum Operations to reduce X to Zero | Array, Sliding Window | [View Code](./Day_134.java) |
 
 
 
