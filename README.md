@@ -411,7 +411,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | d) | Minimum Window Substring | String, Sliding Window | [View Code](./Day_133d.java) |
 | 134  |  |  |  |
 | a) | Minimum Operations to reduce X to Zero | Array, Sliding Window | [View Code](./Day_134.java) |
-
+| 135  |  |  |  |
+| a) | Smallest Index with Digit Sum Equal to Index | Array | [View Code](./Day_135.java) |
 
 
 
