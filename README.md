@@ -413,6 +413,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Operations to reduce X to Zero | Array, Sliding Window | [View Code](./Day_134.java) |
 | 135  |  |  |  |
 | a) | Smallest Index with Digit Sum Equal to Index | Array | [View Code](./Day_135.java) |
+| 136  |  |  |  |
+| a) | Brace Expansion II| String, Backtracking, Stack | [View Code](./Day_136.java) |
+
+
 
 
 
