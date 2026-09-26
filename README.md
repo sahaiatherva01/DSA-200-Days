@@ -414,8 +414,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 135  |  |  |  |
 | a) | Smallest Index with Digit Sum Equal to Index | Array | [View Code](./Day_135.java) |
 | 136  |  |  |  |
-| a) | Brace Expansion II| String, Backtracking, Stack | [View Code](./Day_136.java) |
-
+| a) | Brace Expansion II | String, Backtracking, Stack | [View Code](./Day_136.java) |
+| 137  |  |  |  |
+| a) | Evaluate the Bracket Pairs of a String | String, Array | [View Code](./Day_137.java) |
 
 
 
