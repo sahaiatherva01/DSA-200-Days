@@ -417,6 +417,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Brace Expansion II | String, Backtracking, Stack | [View Code](./Day_136.java) |
 | 137  |  |  |  |
 | a) | Evaluate the Bracket Pairs of a String | String, Array | [View Code](./Day_137.java) |
+| 138  |  |  |  |
+| a) | Reverse Substring between each Pair of Paranthesis | String, Stack | [View Code](./Day_138.java) |
 
 
 
