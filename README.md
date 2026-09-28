@@ -418,8 +418,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 137  |  |  |  |
 | a) | Evaluate the Bracket Pairs of a String | String, Array | [View Code](./Day_137.java) |
 | 138  |  |  |  |
-| a) | Reverse Substring between each Pair of Paranthesis | String, Stack | [View Code](./Day_138.java) |
-
+| a) | Reverse Substring between each Pair of Paranthesess | String, Stack | [View Code](./Day_138.java) |
+| 139  |  |  |  |
+| a) | maximum nesting Depth of the Paranteses | String, Stack | [View Code](./Day_139.java) |
 
 
 
