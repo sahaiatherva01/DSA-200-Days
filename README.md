@@ -420,7 +420,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 138  |  |  |  |
 | a) | Reverse Substring between each Pair of Paranthesess | String, Stack | [View Code](./Day_138.java) |
 | 139  |  |  |  |
-| a) | maximum nesting Depth of the Paranteses | String, Stack | [View Code](./Day_139.java) |
+| a) | Maximum nesting Depth of the Paranteses | String, Stack | [View Code](./Day_139.java) |
+| 140  |  |  |  |
+| a) | Check if There is a Valid Parantheses String Path | Array, Dynamic Programming | [View Code](./Day_140.java) |
+
 
 
 
