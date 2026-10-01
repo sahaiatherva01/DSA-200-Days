@@ -425,6 +425,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Check if There is a Valid Parantheses String Path | Array, Dynamic Programming | [View Code](./Day_140.java) |
 | 141  |  |  |  |
 | a) |  Maximum Nesting Depth of two Valid Paranteses String | String, Stack | [View Code](./Day_141.java) |
+| 142  |  |  |  |
+| a) |  Maximum Score words formed by letters | Array, String, Dynamic Programming, Backtracking | [View Code](./Day_142.java) |
+
+
 
 
 
