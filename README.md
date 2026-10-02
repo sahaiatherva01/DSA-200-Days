@@ -427,7 +427,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) |  Maximum Nesting Depth of two Valid Paranteses String | String, Stack | [View Code](./Day_141.java) |
 | 142  |  |  |  |
 | a) |  Maximum Score words formed by letters | Array, String, Dynamic Programming, Backtracking | [View Code](./Day_142.java) |
-
+| 143  |  |  |  |
+| a) |  Rotating the Box | Array, Two Pointer | [View Code](./Day_143.java) |
 
 
 
