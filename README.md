@@ -429,7 +429,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) |  Maximum Score words formed by letters | Array, String, Dynamic Programming, Backtracking | [View Code](./Day_142.java) |
 | 143  |  |  |  |
 | a) |  Rotating the Box | Array, Two Pointer | [View Code](./Day_143.java) |
-
+| 144  |  |  |  |
+| a) | Longest Valid Parantheses | String, Dynamic Programming, Stack | [View Code](./Day_144.java) |
 
 
 
