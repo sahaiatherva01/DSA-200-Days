@@ -431,6 +431,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) |  Rotating the Box | Array, Two Pointer | [View Code](./Day_143.java) |
 | 144  |  |  |  |
 | a) | Longest Valid Parantheses | String, Dynamic Programming, Stack | [View Code](./Day_144.java) |
+| 145  |  |  |  |
+| a) | Split the Array to Make Co-Prime Products | Math and Number Theory | [View Code](./Day_145.java) |
 
 
 
