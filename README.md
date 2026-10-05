@@ -433,6 +433,9 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Longest Valid Parantheses | String, Dynamic Programming, Stack | [View Code](./Day_144.java) |
 | 145  |  |  |  |
 | a) | Split the Array to Make Co-Prime Products | Math and Number Theory | [View Code](./Day_145.java) |
+| 146  |  |  |  |
+| a) | Score of Parantheses | String, Stack | [View Code](./Day_146.java) |
+
 
 
 
