@@ -17,20 +17,20 @@ Example 3:
 Input: s = "()()"
 Output: 2
 */
-import java.util.*;
 class Solution {
     public int scoreOfParentheses(String s) {
-        Stack<Integer> stack = new Stack<>();
-        stack.push(0);
-        for (char c : s.toCharArray()) {
-            if (c == '(') {
-                stack.push(0);
+        int score = 0;
+        int depth = 0;
+        for (int i = 0; i < s.length(); i++) {
+            if (s.charAt(i) == '(') {
+                depth++;
             } else {
-                int inner = stack.pop();
-                int score = (inner == 0) ? 1 : 2 * inner;
-                stack.push(stack.pop() + score);
+                depth--;
+                if (s.charAt(i - 1) == '(') {
+                    score += 1 << depth;
+                }
             }
         }
-        return stack.pop();
+        return score;
     }
 }
