@@ -435,7 +435,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Split the Array to Make Co-Prime Products | Math and Number Theory | [View Code](./Day_145.java) |
 | 146  |  |  |  |
 | a) | Score of Parantheses | String, Stack | [View Code](./Day_146.java) |
-
+| 147  |  |  |  |
+| a) | Minimum Add to make Parantheses Valid | String, Stack, Greedy | [View Code](./Day_147.java) |
 
 
 
