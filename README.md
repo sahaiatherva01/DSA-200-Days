@@ -437,6 +437,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Score of Parantheses | String, Stack | [View Code](./Day_146.java) |
 | 147  |  |  |  |
 | a) | Minimum Add to make Parantheses Valid | String, Stack, Greedy | [View Code](./Day_147.java) |
+| 148  |  |  |  |
+| a) | Remove Invalid Parantheses | String, Backtracking | [View Code](./Day_148.java) |
 
 
 
