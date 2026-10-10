@@ -441,6 +441,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Remove Invalid Parantheses | String, Backtracking | [View Code](./Day_148.java) |
 | 149  |  |  |  |
 | a) | Remove Outmost Parantheses | String, Stack | [View Code](./Day_149.java) |
+| 150  |  |  |  |
+| a) | Minimum Sum of Squared Difference | Array, Binary Search | [View Code](./Day_150.java) |
 
 
 
