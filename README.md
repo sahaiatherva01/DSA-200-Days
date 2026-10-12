@@ -445,7 +445,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Minimum Sum of Squared Difference | Array, Binary Search | [View Code](./Day_150.java) |
 | 151  |  |  |  |
 | a) | Sum of Squares of Special Elements | Array | [View Code](./Day_151.java) |
-
+| 152  |  |  |  |
+| a) | Apply Operations on Array to Maximize sum of Squares | Array, Greedy | [View Code](./Day_152.java) |
 
 
 ## Daily Goal
