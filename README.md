@@ -447,6 +447,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Sum of Squares of Special Elements | Array | [View Code](./Day_151.java) |
 | 152  |  |  |  |
 | a) | Apply Operations on Array to Maximize sum of Squares | Array, Greedy | [View Code](./Day_152.java) |
+| 153  |  |  |  |
+| a) | Maximize Sum of Squares of Digits| Math, Greedy | [View Code](./Day_153.java) |
+
+
 
 
 ## Daily Goal
