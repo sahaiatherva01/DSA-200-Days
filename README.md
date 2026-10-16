@@ -448,7 +448,10 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | 152  |  |  |  |
 | a) | Apply Operations on Array to Maximize sum of Squares | Array, Greedy | [View Code](./Day_152.java) |
 | 153  |  |  |  |
-| a) | Maximize Sum of Squares of Digits| Math, Greedy | [View Code](./Day_153.java) |
+| a) | Maximize Sum of Squares of Digits | Math, Greedy | [View Code](./Day_153.java) |
+| 154  |  |  |  |
+| a) | Subarrays Distinct Element Sum of Squares II | Array, Hash Table | [View Code](./Day_154.java) |
+
 
 
 
