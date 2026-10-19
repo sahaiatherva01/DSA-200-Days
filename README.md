@@ -451,6 +451,8 @@ This repository reflects my commitment to continuous improvement and becoming a 
 | a) | Maximize Sum of Squares of Digits | Math, Greedy | [View Code](./Day_153.java) |
 | 154  |  |  |  |
 | a) | Subarrays Distinct Element Sum of Squares II | Array, Hash Table | [View Code](./Day_154.java) |
+| 155  |  |  |  |
+| a) | Find Target Indices After Sorting Array | Array, Binary Search, Sorting | [View Code](./Day_155.java) |
 
 
 
